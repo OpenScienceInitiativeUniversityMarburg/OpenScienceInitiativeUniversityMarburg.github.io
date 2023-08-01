@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# OSIUM
-
 # Flash
 Twitter Embed will go here.
 
