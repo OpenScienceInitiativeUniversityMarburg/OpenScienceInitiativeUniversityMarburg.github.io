@@ -11,9 +11,9 @@ Twitter Embed will go here.
 [Open Science Days 2023](./open-science-days-2023.md)
 
 # Information
-[Team](./team.md)
-
 [Tools and Resoruces](./tools-and-resources.md)
+
+[Team - who we are](./team.md)
 
 # More?
 [Formatting Handbook](./formatting-handbook.md)
