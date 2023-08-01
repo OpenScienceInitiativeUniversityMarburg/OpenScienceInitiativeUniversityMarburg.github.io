@@ -10,7 +10,7 @@ Twitter Embed will go here.
 # Events
 [Open Science Days 2023](./open-science-days-2023.md)
 
-# Info
+# Information
 [Team](./team.md)
 
 [Tools and Resoruces](./tools-and-resources.md)
