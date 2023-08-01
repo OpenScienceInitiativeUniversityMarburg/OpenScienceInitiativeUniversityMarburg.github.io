@@ -16,6 +16,6 @@ Twitter Embed will go here.
 [Team - who we are](./team.md)
 
 # More?
-[Formatting Handbook](./formatting-handbook.md)
+[Formatting Handbook/Template](./formatting-handbook.md)
 
 ---
