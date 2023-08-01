@@ -12,6 +12,7 @@ Twitter Embed will go here.
 
 # Events
 [Open Science Days 2023](./open-science-days-2023.md)
+
 [Past Events](./past-events.md)
 
 # Information
