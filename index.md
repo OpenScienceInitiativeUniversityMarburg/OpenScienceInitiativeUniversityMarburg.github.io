@@ -1,7 +1,17 @@
 ---
 layout: default
 ---
+# FLASH
+Twitter Embed will go here.
+# Events
+[Open Science Days 2023](./open-science-days-2023.md)
+# INFO
+[Team](./team.md)
+[Tools and Resoruces](./tools-and-resources.md)
+# More?
 
+
+---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
