@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## FLASH
+# OSIUM
+
+# Flash
 Twitter Embed will go here.
 
 # Events
 [Open Science Days 2023](./open-science-days-2023.md)
 
-# INFO
+# Info
 [Team](./team.md)
 
 [Tools and Resoruces](./tools-and-resources.md)
