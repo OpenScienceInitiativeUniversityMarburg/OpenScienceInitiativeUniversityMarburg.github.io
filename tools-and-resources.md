@@ -3,7 +3,8 @@ layout: default
 title: Tools & Resources
 description: A collection of tools and resources regarding open science and open science best practices.
 ---
-Maybe add a paragraph what this collection is about and a few keywords for each entry?
+
+Maybe add a paragraph what this collection is about and additionally a few keywords for each entry? Or use fewer abbreviations.
 
 ---
 
