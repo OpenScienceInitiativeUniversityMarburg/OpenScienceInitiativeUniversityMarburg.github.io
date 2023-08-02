@@ -3,7 +3,11 @@ layout: default
 title: Tools & Resources
 description: A collection of tools and resources regarding open science and open science best practices.
 ---
-<a href="https://101innovations.wordpress.com/">Tools Overview</a>
+Maybe add a paragraph what this collection is about and a few keywords for each entry?
+
+---
+
+<a href="https://101innovations.wordpress.com/">Tools Overview</a> - Keywords, keywords?
 
 <a href="https://www.fosteropenscience.eu/">OS-Lernmodule</a>
 
