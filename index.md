@@ -8,10 +8,12 @@ OSIUM (Open Science Initiative University Marburg) is an open and voluntary grou
 # News
 Twitter Embed will go here.
 
-# Events ([Calendar](./calendar-page.md))
+# Events
 [Open Science Days 2023](./open-science-days-2023.md)
 
 [Past Events](./past-events.md)
+
+[Calendar](./calendar-page.md)
 
 # Information
 [Tools and Resources](./tools-and-resources.md)
