@@ -6,7 +6,7 @@ layout: default
 OSIUM (Open Science Initiative University Marburg) is an open and voluntary group consisting of researchers from all career stages and disciplines, dedicated to promoting open science practices. We are a vibrant community that welcomes researchers not only from the University of Marburg but also from other institutions, fostering interdisciplinary collaboration and knowledge exchange. Through our activities, we strive to advance the principles of open science and contribute to a more transparent and inclusive research culture.
 
 # News
-Twitter Embed will go here.
+<a class="twitter-timeline" href="https://twitter.com/OpenScienceUM?ref_src=twsrc%5Etfw">Tweets by OpenScienceUM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Events
 [Open Science Days 2023](./open-science-days-2023.md)
