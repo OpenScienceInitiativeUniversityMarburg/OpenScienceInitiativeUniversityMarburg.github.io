@@ -19,20 +19,25 @@ Meanwhile, there are not only recommendations like the <a href="https://openacce
 
 ![Open_Access_Impact](./assets/images/WirkungenVonOpenAccess2022-Grafik3-Ergebnisse.jpg)
 
-# Reason 3: open Science can help boosting your carreer
+# Reason 3: open Science can help boosting your career
 Are you tired of the publish or perish principle in science?
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y0YYgdSEdu4?si=OraoYHbMGrrMEtyu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 Do you not know what your future in science can look like and do you see multiple barriers to your path in academia (#IchBinHanna)?
+
 ![academic_wheel_privileges](./assets/images/academic wheel of privilege.JPG)
 
-Do you want to collaborate with colleagues at eye level and think your research further together?
+
+Do you want to collaborate with colleagues at eye level and think your research future together?
+
 ![Collaboration](./assets/images/Brainhack_cartography.png)
 
 There are many researchers around the world who think just like you and who won't give up trying to change the system for the benefit of all.
-Organize with like-minded people in local open science communities like OSIUM, international communities like <a href="https://forrt.org/">FORRT</a> or subject-specific communities like the <a href="https://doi.org/10.1016/j.neuron.2021.04.001">Brainhack Community</a>.
+Organize with like-minded people in local open science communities like <a href="https://openscienceinitiativeuniversitymarburg.github.io/">OSIUM</a>, international communities like <a href="https://forrt.org/">FORRT</a> or subject-specific communities like the <a href="https://doi.org/10.1016/j.neuron.2021.04.001">Brainhack Community</a>.
 
-*Let's revolutionize science together!*
+**Let's revolutionize science together!**
 
 
 

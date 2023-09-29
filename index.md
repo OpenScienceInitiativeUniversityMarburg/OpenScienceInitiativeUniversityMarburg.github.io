@@ -12,13 +12,11 @@ OSIUM is a working group open to all members of the university that are interest
 # Open Science
 Open Science is a simple concept: It is about using the opportunities and potentials of potential of information and communication technologies for better access to and participation in scientific research and its results and methods.
 
-# Why?
+# [Why?](./reasons.md)
 In its <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949">Recommendation on Open Science</a>, UNESCO calls for the consistent implementation of open research practices because:
 * Open Science enables fairer access to science worldwide and thus also better contributions to solving world problems
 * Open Science improves efficiency, transparency and traceability within science
 * Open Science strengthens inter- and transdisciplinarity and facilitates exchange with industry and international partners.
-
-[Reasons for Open Science](./reasons.md)
 
 # How?
 The ever-growing and very engaged Open Science community is constantly developing new open tools, platforms and standards that help to make your research transparent, open and reusable:
