@@ -9,6 +9,8 @@ description: Open Science Days 2023 hosted in Marburg, Germany.
 The Open Science Days (OSD) 2023 will take place on **December 4th and 5th** 2023. 
 The location will be the **Schulstraße 12 (in Marburg)**. 
 
+---
+
 Here is the planned schedule:
 
 ## Day 1 (04.12.2023)

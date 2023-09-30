@@ -8,16 +8,17 @@ layout: default
 ## ... inclusive
 ## ... the backbone of good scientific practice
 
-# Open Science is you!
+## ... Open Science is **you**!
 
 ![Science_Champion](./assets/images/science-champion.png)
 CC-BY 4.0, Heidi Seibold
+
+---
 
 # The components of Open Science
 
 ![OSIUM_Logo](./assets/images/OSIUM_logo.png)
 
-# Here, we introduce some (although not all) components of Open Science:
 
 # Open Access
 Provide open access to research data and content. With open data anyone can freely use, modify and share the data for any purpose. In this context, the term exclusively refers to scientific research data. The content on the web is made available under an open licence and in a structured, non-proprietary format (i.e. XML, PNG, LaTeX, CSV). Sharing data allows for a more efficient replication process by simplifying data exchange and preventing unnecessary data acquisition. Plus, open data enables laboratories to collaborate and accumulate larger data sets in a cost-saving manner for more meaningful results. Smaller research groups are given the means to participate in the discussion. As a consequence, the entire scientific process is shaped more inclusively, allowing contributors to debate on an equal footing regardless of funding.
@@ -72,4 +73,7 @@ Open educational resources (OER), also known as Open Content or Open Learning Ma
 # Open Peer Review
 Open peer review is a transparent and collaborative review process. It differs from traditional peer review in that the identities of authors and reviewers are often public, allowing for broader scrutiny and constructive feedback from experts and the public. This approach enhances transparency, reduces bias, and fosters collaboration in scholarly publishing.
 
-**For Marburg University's open science services, please feel free to <a href="mailto:Riedll@staff.uni-marburg.de">contact Dr. Lydia Riedl</a>**
+---
+
+**For Marburg University's open science services, please feel free to contact** 
+# <a href="mailto:Riedll@staff.uni-marburg.de">Dr. Lydia Riedl</a>
