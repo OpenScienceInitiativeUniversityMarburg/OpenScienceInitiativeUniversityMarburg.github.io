@@ -4,6 +4,8 @@ title: OSIUM Team
 description: The members - current and former - that make up OSIUM.
 ---
 
+![OSIUM_Logo](./assets/images/OSIUM_logo.png)
+
 # Vision
 Open science best practices implemented in public educational institutions.
 

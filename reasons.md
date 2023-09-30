@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-![OSIUM_Logo](./assets/images/OSIUM_logo.png)
 
 # Reason 1: Open Science can help save our planet
 Our interconnected world needs open science to help solve complex social, environmental, and economic challenges and achieve the <a href="https://sdgs.un.org/goals">Sustainable Development Goals</a>.
@@ -20,17 +19,17 @@ Meanwhile, there are not only recommendations like the <a href="https://openacce
 ![Open_Access_Impact](./assets/images/WirkungenVonOpenAccess2022-Grafik3-Ergebnisse.jpg)
 
 # Reason 3: open Science can help boosting your career
-Are you tired of the publish or perish principle in science?
+**Are you tired of the publish or perish principle in science?**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y0YYgdSEdu4?si=OraoYHbMGrrMEtyu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-Do you not know what your future in science can look like and do you see multiple barriers to your path in academia (#IchBinHanna)?
+**Do you not know what your future in science can look like and do you see multiple barriers to your path in academia (#IchBinHanna)?**
 
 ![academic_wheel_privileges](./assets/images/academic wheel of privilege.JPG)
 
 
-Do you want to collaborate with colleagues at eye level and think your research future together?
+**Do you want to collaborate with colleagues at eye level and think your research future together?**
 
 ![Collaboration](./assets/images/Brainhack_cartography.png)
 

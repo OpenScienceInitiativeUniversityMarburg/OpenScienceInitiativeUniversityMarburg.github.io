@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-![OSIUM_Logo](./assets/images/OSIUM_logo.png)
 
 # [OSIUM](./team.md)
+
+![OSIUM_Logo](./assets/images/OSIUM_logo.png)
+
 The Open Science Initiative University Marburg (OSIUM) is an open and voluntary group consisting of researchers from all career stages and disciplines, dedicated to promoting open science practices. We are a vibrant community that welcomes researchers not only from the University of Marburg but also from other institutions, fostering interdisciplinary collaboration and knowledge exchange. Through our activities, we strive to advance the principles of Open Science and contribute to a more transparent and inclusive research culture.
 OSIUM is serving as platform where researchers can easily learn and practice the use of these methods as well as benefit from others' experience. We attach particular importance to paying equal attention to all the principles of open science: open access, open data, methods, software, teaching materials, review processes, research results and cultural heritage. 
 
