@@ -75,5 +75,4 @@ Open peer review is a transparent and collaborative review process. It differs f
 
 ---
 
-**For Marburg University's open science services, please feel free to contact** 
-# <a href="mailto:Riedll@staff.uni-marburg.de">Dr. Lydia Riedl</a>
+**For Marburg University's open science services, please feel free to contact <a href="mailto:Riedll@staff.uni-marburg.de">Dr. Lydia Riedl</a>**
