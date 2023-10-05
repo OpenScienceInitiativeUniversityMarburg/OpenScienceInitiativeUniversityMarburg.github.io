@@ -51,4 +51,5 @@ We offer trainings and peer-to-peer workshops in the following regular framework
 
 # More?
 [Impressum](./impressum.md)
+
 [Formatting Handbook/Template](./formatting-handbook.md)
