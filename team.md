@@ -25,6 +25,9 @@ OSIUM collaborates within **Marburg University** with the MArburg Research Acade
 OSIUM is member of the Network of Open Science Initiatives <a href="https://osf.io/tbkzh/">NOSI</a> and therewith of the German Reproducibility Network <a href="https://reproducibilitynetwork.de/">GRN</a> and OSIUM is part of the global <a href="https://mattermost.brainhack.org/">Brainhack Community</a>.
 
 # Current Core Team  
+
+Neuroscientists, biologists, psychologists, physicists, computer scientists, linguists and media scientists have come together to promote Open Science at Marburg University for the benefit of all sciences. We are always looking for new Open Science enthusiasts to join the team!
+
 <a href="https://github.com/JoseAlanis">José Alanis</a>, <a href="https://www.researchgate.net/profile/Monica-Berdugo-Moreno">Monica B. Berdugo</a>, <a href="https://github.com/thecyclingcyclopse">Thomas S. Hartmann</a>, <a href="https://de.linkedin.com/in/julia-katharina-pfarr-2a6437236">Julia Pfarr</a>, <a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a>, <a href="https://de.linkedin.com/in/bj%C3%B6rn-siepe-11a750219">Björn Siepe</a>, <a href="https://de.linkedin.com/in/ina-thome-a31766182">Ina Thome</a>, <a href="https://github.com/vogelbac">Christoph Vogelbacher</a>
 
 # Founders
