@@ -42,7 +42,7 @@ The Open Science community is constantly developing new open tools, platforms an
 OSIUM is happy to help you get started with open research practices, answer specific questions, and also support projects on open research workflows or open science in teaching.
 So if you have questions or ideas or just want to be part of this innovative and collaborative community, come to our next **Open Office Hour**: We meet online every second Monday at 1:00 pm and in person once a quarter for an **Open Science Lab**. Please find all OSIUM activities announced in our [calendar](./calendar-page.md).
 
-**For Marburg University's open science services, please feel free to contact <a href="mailto:Riedll@staff.uni-marburg.de">Dr. Lydia Riedl</a> **
+For **Marburg University's open science services**, please feel free to contact <a href="mailto:Riedll@staff.uni-marburg.de">Dr. Lydia Riedl</a>
 
 
 **This is the Open Science policy of Marburg University so far¹:**
