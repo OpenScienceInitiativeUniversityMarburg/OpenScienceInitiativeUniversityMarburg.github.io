@@ -11,8 +11,8 @@ OSIUM is serving as platform where researchers can easily learn and practice the
 
 OSIUM is a working group open to all members of the university that are interested in the topic of open and sustainable research. OSIUM is part of MARA and has its own <a href="https://www.uni-marburg.de/en/mara/networking/academic-groups/working-group-35/arbeitsgruppe-35-open-science-initiative-university-marburg-2018">working group</a>.
 
-# Open Science Days 2023 (Dec 4 + 5 2023)
-This year we present the [Open Science Days 2023](./open-science-days-2023.md). We will provide information on Open Science and will work on several projects. Also included will be a discussion on Open Science visions with stakeholders of the Philipps University of Marburg. On the subpage you will find the schedule.
+# [Open Science Days 2023 (Dec 4 + 5 2023)](./open-science-days-2023.md)
+This year we present the Open Science Days 2023. We will provide information on Open Science and will work on several projects. Also included will be a discussion on Open Science visions with stakeholders of the Philipps University of Marburg. On the subpage you will find the [schedule](./open-science-days-2023.md).
 
 # [Open Science](./open-science.md)
 Open Science is a simple concept: It is about using the opportunities and potentials of information and communication technologies for better access to and participation in scientific research and its results and methods.
