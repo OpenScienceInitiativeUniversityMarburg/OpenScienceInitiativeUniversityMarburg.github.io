@@ -26,7 +26,7 @@ Here is the planned schedule:
 | 14:00 - 14:30   | Versioning    | 
 | 14:30 - 15:30  | datalad   | 
 | 15:30 - 16:00  | Pause - Coffee  |
-| 16:00 - 17:30 | Hands-on session. In this time slot you have two options: 1) Apply the Open Science concepts and tools you learned earlier in the day to your own project. The TAs will surely be there for support and answering questions specific to your project setup, registration, and management. 2) Help the OSIUM Team to plan an Open Science retreat 2024. |
+| 16:00 - 17:30 | Project Work |
 
 
 ## Day 2
@@ -36,11 +36,18 @@ Here is the planned schedule:
 | 10:00 - 10:15   | Welcome   |
 | 10:15 - 11:00    | R-Markdown       |
 | 11:00 - 12:00   | Python / Jupyter |
-| 12:00 - 13:00  | Pause / Lunch    |
+| 12:00 - 13:00  | Break / Lunch    |
 | 13:00 - 15:00  | Project Work |
 | 15:00 - 15:30  | Break - Coffee  |
 | 15:30 - 16:45 | Project Work |
 | 16:45 - 17:00 | Project Presentation |
 | 17:00 | Wrap up - Closing words |
+
+## Project work
+### Hands-on session 
+In this time slot you can apply the Open Science concepts and tools you learned earlier in the day to your own project. The TAs will surely be there for support and answering questions specific to your project setup, registration, and management. 
+### Registerd Projects
+- Planning an Open Science Retreat 2024
+- Integrate Open Science to lecture of University
 
 [back](./)
