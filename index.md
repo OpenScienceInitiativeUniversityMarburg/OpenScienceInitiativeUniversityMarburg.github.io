@@ -32,25 +32,8 @@ So if you have questions or ideas or just want to be part of this innovative and
 # News
 <a class="twitter-timeline" href="https://twitter.com/OpenScienceUM?ref_src=twsrc%5Etfw" data-tweet-limit="1" data-height="300">Tweets by OpenScienceUM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# Events
+# [Events](./calendar-page.md)
 OSIUM conducts lectures, peer-to-peer workshops, and retreats on open research topics regularly and upon request.
-
-## Upcoming Events
-
-[Open Science Days 2023](./open-science-days-2023.md)
-
-[Calendar](./calendar-page.md)
-
-## Regular events
-
-We offer trainings and peer-to-peer workshops in the following regular frameworks:
-
-<a href="https://www.uni-marburg.de/en/hefdi/hefdi-data-event/hds">HeFDI Data School</a>
-
-<a href="https://www.uni-marburg.de/en/mara/program/calendar-of-events">MARA Workshops</a>
-
-## [Past Events](./past-events.md)
-
 
 # More?
 [Impressum](./impressum.md)
