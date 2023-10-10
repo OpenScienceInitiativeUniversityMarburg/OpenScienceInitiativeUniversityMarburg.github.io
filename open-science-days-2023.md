@@ -53,8 +53,8 @@ During this time slot, you will have the opportunity to implement the Open Scien
 During this time slot, you have the opportunity to collaborate on projects that have already been registered. 
 Already registered projects include:
 
-Project 1: Planning an Open Science Retreat for 2024.
-Project 2: Shaping the Future: Open Science Visions for Marburg University.
+* Project 1: Planning an Open Science Retreat for 2024.
+* Project 2: Shaping the Future: Open Science Visions for Marburg University.
 
 **Project Presentation**
 
