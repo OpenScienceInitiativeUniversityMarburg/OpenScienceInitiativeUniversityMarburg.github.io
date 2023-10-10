@@ -13,7 +13,7 @@ The location will be the **Schulstraße 12 (in Marburg)**.
 
 Here is the planned schedule:
 
-## Day 1 (04.12.2023)
+## Day 1 (Monday, 04.12.2023)
 
 | Time | Topic | 
 | :---:        |     :---:     |
@@ -29,7 +29,7 @@ Here is the planned schedule:
 | 16:00 - 17:30 | Project Work |
 
 
-## Day 2
+## Day 2 (Tuesday, 05.12.2023)
 
 | Time | Topic | 
 | :---:        |     :---:     |
@@ -44,16 +44,18 @@ Here is the planned schedule:
 | 17:00 | Wrap up - Closing words |
 
 ## Project work
-### Hands-on session 
-In this time slot you can apply the Open Science concepts and tools you learned earlier in the day to your own project. The TAs will surely be there for support and answering questions specific to your project setup, registration, and management. 
+### Project Work Slot A: Hands-on session 
+During this time slot, you will have the opportunity to implement the Open Science principles and utilize the tools you were introduced to earlier in the day, within the context of your own project. The Teaching Assistants (TAs) will be available to provide assistance and address any questions related to the setup, registration, and management of your project. 
 
-### Registerd Projects
-In this time slot you can collaborate on already registert projects. These projects are:  
-- Planning an Open Science Retreat 2024
-- Shaping the Future: Open Science Visions for Marburg University
+### Project Work Slot B: Registerd Projects
+During this time slot, you have the opportunity to collaborate on projects that have already been registered. 
+Already registered projects include:
+
+Project 1: Planning an Open Science Retreat for 2024.
+Project 2: Shaping the Future: Open Science Visions for Marburg University.
 
 ### Project Presentation 
-In this part you can present the group the results of your project work and have a little discussion. 
+In this part you can present the group the results of your project work. 
 
 ## Open Science Discussion
 In this session we will discuss Open Science visions with stakeholders of the Philipps University of Marburg.
