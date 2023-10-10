@@ -62,6 +62,8 @@ In this session we will discuss Open Science visions with stakeholders of the Ph
 
 
 # Registration
-To register for the Open Science Days, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSc6gjkEU8vmLSiDUafD4ukE3eGFxA1fEL0OX0ieqjtsxxaoYQ/viewform?usp=sharing)
+To register for the Open Science Days, please use this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6gjkEU8vmLSiDUafD4ukE3eGFxA1fEL0OX0ieqjtsxxaoYQ/viewform?usp=sharing">form</a>:
+![OSIUM_Logo](./assets/images/QR-Code_Registration.png)
+
 
 [back](./)
