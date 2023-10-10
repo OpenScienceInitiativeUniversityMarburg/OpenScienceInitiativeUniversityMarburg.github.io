@@ -44,17 +44,17 @@ Here is the planned schedule:
 | 17:00 | Wrap up - Closing words |
 
 ## ¹Project work
-### Project Work Slot A: Hands-on session 
+**Project Work Slot A: Hands-on session**
 During this time slot, you will have the opportunity to implement the Open Science principles and utilize the tools you were introduced to earlier in the day, within the context of your own project. The Teaching Assistants (TAs) will be available to provide assistance and address any questions related to the setup, registration, and management of your project. 
 
-### Project Work Slot B: Registerd Projects
+**Project Work Slot B: Registerd Projects**
 During this time slot, you have the opportunity to collaborate on projects that have already been registered. 
 Already registered projects include:
 
 Project 1: Planning an Open Science Retreat for 2024.
 Project 2: Shaping the Future: Open Science Visions for Marburg University.
 
-### Project Presentation 
+**Project Presentation**
 In this part you can present the group the results of your project work. 
 
 ## ²Open Science Discussion
