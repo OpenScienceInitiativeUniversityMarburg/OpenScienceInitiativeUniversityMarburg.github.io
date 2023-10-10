@@ -26,7 +26,7 @@ Here is the planned schedule:
 | 14:00 - 14:30   | Versioning | 
 | 14:30 - 15:30  | datalad | 
 | 15:30 - 16:00  | Break - Coffee |
-| 16:00 - 17:30 | Project Work |
+| 16:00 - 17:30 | Project Work¹ |
 
 
 ## Day 2 (Tuesday, 05.12.2023)
@@ -37,13 +37,13 @@ Here is the planned schedule:
 | 10:15 - 11:00    | R-Markdown |
 | 11:00 - 12:00   | Python / Jupyter |
 | 12:00 - 13:00  | Break - Lunch  |
-| 13:00 - 15:00  | Project Work |
+| 13:00 - 15:00  | Project Work¹ |
 | 15:00 - 15:30  | Break - Coffee |
-| 15:30 - 16:00  | Project Presentation |
-| 16:00 - 17:00 |  Open Science Discussion |
+| 15:30 - 16:00  | Project Presentation¹ |
+| 16:00 - 17:00 |  Open Science Discussion² |
 | 17:00 | Wrap up - Closing words |
 
-## Project work
+## ¹Project work
 ### Project Work Slot A: Hands-on session 
 During this time slot, you will have the opportunity to implement the Open Science principles and utilize the tools you were introduced to earlier in the day, within the context of your own project. The Teaching Assistants (TAs) will be available to provide assistance and address any questions related to the setup, registration, and management of your project. 
 
@@ -57,7 +57,11 @@ Project 2: Shaping the Future: Open Science Visions for Marburg University.
 ### Project Presentation 
 In this part you can present the group the results of your project work. 
 
-## Open Science Discussion
+## ²Open Science Discussion
 In this session we will discuss Open Science visions with stakeholders of the Philipps University of Marburg.
+
+
+# Registration
+To register for the Open Science Days, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSc6gjkEU8vmLSiDUafD4ukE3eGFxA1fEL0OX0ieqjtsxxaoYQ/viewform?usp=sharing)
 
 [back](./)
