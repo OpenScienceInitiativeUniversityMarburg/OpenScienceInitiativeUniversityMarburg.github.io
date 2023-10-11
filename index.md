@@ -35,7 +35,4 @@ So if you have questions or ideas or just want to be part of this innovative and
 # [Events](./calendar-page.md)
 OSIUM conducts lectures, peer-to-peer workshops, and retreats on open research topics regularly and upon request.
 
-# More?
-[Impressum](./impressum.md)
 
-[Formatting Handbook/Template](./formatting-handbook.md)
