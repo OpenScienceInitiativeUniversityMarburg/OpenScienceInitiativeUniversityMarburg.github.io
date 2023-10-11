@@ -9,32 +9,23 @@ layout: default
 
 ## Open Science Initiative University Marburg (OSIUM)
 
-**postal address**
+# postal address
 
-Dr. Lydia Riedl
+Dr. Lydia Riedl  
+Deutschhausstrasse 9  
+35037 Marburg  
 
-Deutschhausstrasse 9
-
-35037 Marburg
-
-**email**
+# email
 
 osium.contact@gmail.com
 
-**core team**
+# core team
 
-José Alanis
-
-Monica B. Berdugo
-
-Thomas S. Hartmann
-
-Julia Pfarr
-
-Lydia Riedl
-
-Björn Siepe
-
-Ina Thome
-
+José Alanis  
+Monica B. Berdugo  
+Thomas S. Hartmann  
+Julia Pfarr  
+Lydia Riedl  
+Björn Siepe  
+Ina Thome  
 Christoph Vogelbacher
