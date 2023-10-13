@@ -68,6 +68,6 @@ In this session we will discuss Open Science visions with stakeholders of the Ph
 To register for the Open Science Days, please use this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6gjkEU8vmLSiDUafD4ukE3eGFxA1fEL0OX0ieqjtsxxaoYQ/viewform?usp=sharing">form</a>.
 
 # Support and Network
-The OSD 2023, supported by <a href="https://www.sfb-perception.de/news/news2/2022-nowa-projekt-website.html">NOWA(SFB135)</a> and the <a href="https://www.uni-marburg.de/de/forschung/kontakt/eresearch">eResearch Center</a>, aims to increase networking opportunities among Open Science enthusiasts.
+The OSD 2023, supported by <a href="https://www.sfb-perception.de/news/news2/2022-nowa-projekt-website.html">NOWA(SFB135)</a>, <a href="https://www.uni-marburg.de/de/forschung/kontakt/eresearch">eResearch Center</a>, <a href="https://www.uni-marburg.de/de/ub">Universitätsbibliothek</a> and <a href="https://www.uni-marburg.de/de/mara">MARA</a>, aims to increase networking opportunities among Open Science enthusiasts.
 
 [back](./)
