@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Open Science Days 2023
-description: Open Science Days 2023 hosted in Marburg, Germany.
+description: Trainings, Projects, Hackathons, Discussion.
 ---
 
 # Concept of the Open Science Days (OSD) 2023
