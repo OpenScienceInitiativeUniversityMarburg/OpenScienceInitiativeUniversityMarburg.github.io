@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Why Open Science?
+description: The members - current and former - that make up OSIUM.
 ---
 
 # Reason 1: Open Science can help promoting your research
