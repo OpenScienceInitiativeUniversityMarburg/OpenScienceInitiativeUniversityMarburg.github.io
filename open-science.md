@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Why Open Science?
+title: What is Open Science?
 description: The members - current and former - that make up OSIUM.
 ---
 
