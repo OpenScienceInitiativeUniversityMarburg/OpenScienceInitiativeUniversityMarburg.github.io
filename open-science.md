@@ -1,16 +1,8 @@
 ---
 layout: default
-title: What is Open Science?
-description: The members - current and former - that make up OSIUM.
+title: Open Science is...
+description: ... a way of live, ... a movement, ... the backbone of good scientific practice.
 ---
-
-# Open Science is ...
-## ... a way of life
-## ... a movement
-## ... inclusive
-## ... the backbone of good scientific practice
-
-## ... Open Science is **you**!
 
 ![Science_Champion](./assets/images/science-champion.png)
 CC-BY 4.0, Heidi Seibold
