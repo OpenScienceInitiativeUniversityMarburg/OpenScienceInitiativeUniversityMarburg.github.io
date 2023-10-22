@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OSIUM Calendar
+title: OSIUM Events
 description: Bi-weekly open office hours as well as other various events.
 ---
 # Upcoming Events
