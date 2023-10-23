@@ -4,7 +4,7 @@ title: ![OSIUM_Logo](./assets/images/OSIUM_logo.png)
 description: Gaining knowledge is the first step to wisdom. Sharing knowledge is the first the step to humanity.
 ---
 
-# [Open Science Days 2023 (Dec 4 + 5 2023)](./open-science-days-2023.md) /* News */
+# [News: Open Science Days 2023 (Dec 4 + 5 2023)](./open-science-days-2023.md)
 This year we present the Open Science Days 2023. We will provide information on Open Science and will work on several projects. Also included will be a discussion on Open Science visions with stakeholders of the Philipps University of Marburg. On the subpage you will find the [schedule](./open-science-days-2023.md). 
 
 <iframe src="https://fediscience.org/@lydiariedl/111221107953562911/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fediscience.org/embed.js" async="async"></script><a class="twitter-timeline" href="https://twitter.com/OpenScienceUM?ref_src=twsrc%5Etfw" data-tweet-limit="1" data-height="300">Tweets by OpenScienceUM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
