@@ -17,6 +17,9 @@ We offer <a href="https://webconf.hrz.uni-marburg.de/b/lyd-ygt-uqx-rex">office h
 
 We also offer trainings and peer-to-peer workshops in the following regular frameworks: <a href="https://www.uni-marburg.de/en/hefdi/hefdi-data-event/hds">HeFDI Data School</a> and <a href="https://www.uni-marburg.de/en/mara/program/calendar-of-events">MARA Workshops</a>
 
-And we organize collaborative working formats like hackathons and retreats: [Past Events](./past-events.md)
+And we organize collaborative working formats like hackathons and retreats: [Past Events](./past-events.md) 
+
+# Code of Conduct
+OSIUM is dedicated to providing a harassment-free experience for everyone. As OSIUM members collaborate closely with the Brainhack Community, we declare the <a href="https://brainhack.org/code-of-conduct.html">Code of Conduct</a> of the Brainhack Community as valid also for the events organized by OSIUM. We expect the Code of Conduct to be honored by everyone who participates in the OSIUM community or claims any affiliation with OSIUM. This code is not exhaustive or complete. We ask community members to adhere to it as much in spirit as in letter to create a safe and positive experience for all.
 
 [back](./)
