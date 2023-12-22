@@ -16,7 +16,7 @@ OSIUM is a working group open to all members of the university that are interest
 # News
 <a class="twitter-timeline" href="https://twitter.com/OpenScienceUM?ref_src=twsrc%5Etfw" data-tweet-limit="1" data-height="300">Tweets by OpenScienceUM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# [Open Science](./open-science.md)
+# [What?](./open-science.md)
 Open Science is a simple concept: It is about using the opportunities and potentials of information and communication technologies for better access to and participation in scientific research and its results and methods.
 
 # [Why?](./reasons.md)
