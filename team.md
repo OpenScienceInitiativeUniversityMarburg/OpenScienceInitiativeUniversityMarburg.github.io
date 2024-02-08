@@ -33,4 +33,8 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
 # Founders
 <a href="https://github.com/JoseAlanis">José Alanis</a>, <a href="https://github.com/MalteGueth">Malte Gueth</a>, <a href="https://github.com/PeerHerholz">Peer Herholz</a>, <a href="https://www.ukgm.de/ugm_2/deu/umr_psy/umr_psy_team.php?id=1398">Jens Sommer</a>, <a href="https://github.com/vogelbac">Christoph Vogelbacher</a>
 
+# Join us! 
+
+The Open Science Initiative University of Marburg (OSIUM) is an open and voluntary group of scientists from all career stages and disciplines. We are open to all interested people! To find out more about the current activities of OSIUM and/or to become an active OSIUM member, please feel free to join our Open Office Hours and join the group on discord (please find the links for joining in the header of this website).
+
 [back](./)
