@@ -21,7 +21,7 @@ The Open Science community is constantly developing new open tools, platforms an
 
 
 
-**Some further tools are linked below:**
+# Some further tools are linked below:
 
 __Tool Overviews__
 
