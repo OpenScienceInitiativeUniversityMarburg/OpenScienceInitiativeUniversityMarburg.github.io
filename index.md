@@ -4,7 +4,7 @@ title: Welcome from OSIUM
 description: Gaining knowledge is the first step to wisdom. Sharing knowledge is the first the step to humanity.
 ---
 
-![OSIUM_Logo](./assets/images/OSIUM_logo.png)(./team.md)
+![OSIUM_Logo](./assets/images/OSIUM_logo.png)
 
 # News
 <a class="twitter-timeline" href="https://twitter.com/OpenScienceUM?ref_src=twsrc%5Etfw" data-tweet-limit="1" data-height="300">Tweets by OpenScienceUM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
