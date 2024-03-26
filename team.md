@@ -35,6 +35,6 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
 
 # Join us! 
 
-The Open Science Initiative University of Marburg (OSIUM) is an open and voluntary group of scientists from all career stages and disciplines. We are open to all interested people! To find out more about the current activities of OSIUM and/or to become an active OSIUM member, please feel free to join our Open Office Hours and join the group on discord (please find the links for joining in the header of this website).
+The Open Science Initiative University of Marburg (OSIUM) is an open and voluntary group of scientists from all career stages and disciplines. We are a vibrant community that welcomes all interested people! To find out more about the current activities of OSIUM and/or to become an active OSIUM member, please feel free to join our <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join" class="btn">Open Office</a> and <a href="https://discord.gg/KDR6Xc3aRg" class="btn">join</a> the group on discord (please find the links for joining in the header of this website).
 
 [back](./)
