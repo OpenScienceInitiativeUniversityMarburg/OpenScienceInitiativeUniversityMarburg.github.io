@@ -7,10 +7,6 @@ description: Bi-weekly open office hours as well as other various events.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;hl=en&amp;src=osium.contact%40gmail.com&amp;ctz=Europe%2FBerlin" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-## [Open Science Days 2023](./open-science-days-2023.md)
-
-<iframe src="https://fediscience.org/@lydiariedl/111221107953562911/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fediscience.org/embed.js" async="async"></script>
-
 
 # Regular events
 We offer <a href="https://webconf.hrz.uni-marburg.de/b/lyd-ygt-uqx-rex">office hours</a> where you can join the online meeting and ask your questions on Open Science (every second Monday 13:00 o'clock). 
@@ -18,8 +14,5 @@ We offer <a href="https://webconf.hrz.uni-marburg.de/b/lyd-ygt-uqx-rex">office h
 We also offer trainings and peer-to-peer workshops in the following regular frameworks: <a href="https://www.uni-marburg.de/en/hefdi/hefdi-data-event/hds">HeFDI Data School</a> and <a href="https://www.uni-marburg.de/en/mara/program/calendar-of-events">MARA Workshops</a>
 
 And we organize collaborative working formats like hackathons and retreats: [Past Events](./past-events.md) 
-
-# Code of Conduct
-OSIUM is dedicated to providing a harassment-free experience for everyone. As OSIUM members collaborate closely with the Brainhack Community, we declare the <a href="https://brainhack.org/code-of-conduct.html">Code of Conduct</a> of the Brainhack Community as valid also for the events organized by OSIUM. We expect the Code of Conduct to be honored by everyone who participates in the OSIUM community or claims any affiliation with OSIUM. This code is not exhaustive or complete. We ask community members to adhere to it as much in spirit as in letter to create a safe and positive experience for all.
 
 [back](./)
