@@ -21,7 +21,7 @@ In its <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949">Recommendati
 # [How?](./tools-and-resources.md)
 The ever-growing and very engaged Open Science community is constantly developing new open tools, platforms and standards that help to make your research transparent, open and reusable.
 
-OSIUM is happy to help you get started with open research practices, answer specific questions, and also support projects on open research workflows or open science in teaching.
+OSIUM is happy to collaborate with you on open research practices or specific projects on open research workflows or open science in teaching.
 So if you have questions or ideas or just want to be part of this innovative and collaborative community, come to our next **Open Office Hour**: We meet online every second Monday at 1:00 pm and in person once a quarter for an **Open Science Lab**. Please find all OSIUM activities announced in our [calendar](./calendar-page.md).
 
 
