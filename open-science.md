@@ -4,8 +4,8 @@ title: Open Science is...
 description: ... a way of live, ... a movement, ... the backbone of good scientific practice.
 ---
 
-![Science_Champion](./assets/images/science-champion.png)
-CC-BY 4.0, Heidi Seibold
+# ![Science_Champion](./assets/images/science-champion.png)
+# CC-BY 4.0, Heidi Seibold
 
 ---
 
