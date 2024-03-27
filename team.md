@@ -35,7 +35,7 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
 
 # Join us! 
 
-The Open Science Initiative University of Marburg (OSIUM) is an open and voluntary group of scientists from all career stages and disciplines. We are a vibrant community that welcomes all interested people! To find out more about the current activities of OSIUM and/or to become an active OSIUM member, please feel free to join our <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join" class="btn">Open Office</a> and <a href="https://discord.gg/KDR6Xc3aRg" class="btn">join</a> the group on discord (please find the links for joining in the header of this website).
+The Open Science Initiative University of Marburg (OSIUM) is an open and voluntary group of scientists from all career stages and disciplines. We are a vibrant community that welcomes all interested people! To find out more about the current activities of OSIUM and/or to become an active OSIUM member, please feel free to join our Open Office and join the group on discord (please find the links for joining in the header of this website).
 
 # Code of Conduct
 OSIUM is dedicated to providing a harassment-free experience for everyone. As OSIUM members collaborate closely with the Brainhack Community, we declare the <a href="https://brainhack.org/code-of-conduct.html">Code of Conduct</a> of the Brainhack Community as valid also for the events organized by OSIUM. We expect the Code of Conduct to be honored by everyone who participates in the OSIUM community or claims any affiliation with OSIUM. This code is not exhaustive or complete. We ask community members to adhere to it as much in spirit as in letter to create a safe and positive experience for all.
