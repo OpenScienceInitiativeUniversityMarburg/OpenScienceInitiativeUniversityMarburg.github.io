@@ -10,6 +10,12 @@ The Open Science community is constantly developing new open tools, platforms an
 
 ![Rainbow](./assets/images/rainbow-of-open-science.png)
 
+
+# OSIUM Open Educational Resources
+
+<a href="https://osf.io/yrh7n/" class="btn">OSIUM projects on OSF</a>
+
+
 # Tools created by OSIUM members
 
 
