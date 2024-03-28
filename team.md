@@ -24,7 +24,7 @@ OSIUM collaborates within **Marburg University** with the MArburg Research Acade
 
 OSIUM is member of the Network of Open Science Initiatives <a href="https://osf.io/tbkzh/">NOSI</a> and therewith of the German Reproducibility Network <a href="https://reproducibilitynetwork.de/">GRN</a> and OSIUM is part of the global <a href="https://mattermost.brainhack.org/">Brainhack Community</a>.
 
-# Current Core Team  
+# Current Board Members 
 
 Neuroscientists, biologists, psychologists, physicists, computer scientists, linguists and media scientists have come together to promote Open Science at Marburg University for the benefit of all sciences. We are always looking for new Open Science enthusiasts to join the team!
 
@@ -32,6 +32,9 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
 
 # Founders
 <a href="https://github.com/JoseAlanis">José Alanis</a>, <a href="https://github.com/MalteGueth">Malte Gueth</a>, <a href="https://github.com/PeerHerholz">Peer Herholz</a>, <a href="https://www.ukgm.de/ugm_2/deu/umr_psy/umr_psy_team.php?id=1398">Jens Sommer</a>, <a href="https://github.com/vogelbac">Christoph Vogelbacher</a>
+
+# Supporter List
+_going to come_
 
 # Code of Conduct
 OSIUM is dedicated to providing a harassment-free experience for everyone. As OSIUM members collaborate closely with the Brainhack Community, we declare the <a href="https://brainhack.org/code-of-conduct.html">Code of Conduct</a> of the Brainhack Community as valid also for the events organized by OSIUM. We expect the Code of Conduct to be honored by everyone who participates in the OSIUM community or claims any affiliation with OSIUM. This code is not exhaustive or complete. We ask community members to adhere to it as much in spirit as in letter to create a safe and positive experience for all.
