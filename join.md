@@ -11,9 +11,9 @@ The Open Science Initiative University of Marburg (OSIUM) is an open and volunta
 
 # Get in touch
 
-Whether you have questions getting started or you want to become an active OSIUM member, please feel free to join our <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join" class="btn">Open Office</a>
+Whether you have questions getting started or you want to become an active OSIUM member, please feel free to join our <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join">Open Office</a>
 
-and join the group on <a href="https://discord.gg/KDR6Xc3aRg" class="btn">discord</a>.
+and join the group on <a href="https://discord.gg/KDR6Xc3aRg">discord</a>.
 
 
 # Support
@@ -22,7 +22,9 @@ If you would like to show your support for the Open Science Initiative Universit
 
 
 ---
-# Please check our calendar to find out when the next Open Office Hour takes place
+# Join our upcoming events
+
+For more information, please click on the event in the embedded calendar:
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;hl=en&amp;src=osium.contact%40gmail.com&amp;ctz=Europe%2FBerlin" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
