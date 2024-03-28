@@ -4,7 +4,7 @@ title: Join the Open Science Community!
 description: How to get involved
 ---
 
-The Open Science Initiative University of Marburg (OSIUM) is an open and voluntary group of scientists from all career stages and disciplines. We are a vibrant community that welcomes all interested people! 
+**The Open Science Initiative University of Marburg (OSIUM) is an open and voluntary group of scientists from all career stages and disciplines. We are a vibrant community that welcomes all interested people! **
 
 
 ---
