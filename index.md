@@ -9,8 +9,8 @@ description: Gaining knowledge is the first step to wisdom. Sharing knowledge is
 # News
 <a class="twitter-timeline" href="https://twitter.com/OpenScienceUM?ref_src=twsrc%5Etfw" data-tweet-limit="1" data-height="300">Tweets by OpenScienceUM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# [What?](./open-science.md)
-The term 'Open Science' has not yet a universally accepted definition, but usually refers to one core theme: Increasing knowledge availability as a public good, typically with critical research principles such as credibility, reproducibility, and verifiability included in some combination. Many other terms are being used synonymously with Open Science, such as Open Research, Open Scholarship, Science 2.0, and eScience.
+# [What?](./open-science.md) 
+The term 'Open Science' has not yet a universally accepted definition, but usually refers to one core theme: Increasing knowledge availability as a public good, typically with critical key principles of good scientific practice such as credibility, reproducibility, and verifiability included in some combination. Many other terms are being used synonymously with Open Science, such as Open Research, Open Scholarship, Science 2.0, and eScience.
 [FOSTER](https://www.fosteropenscience.eu/) defines Open Science as: "The movement to make scientific research, data and dissemination accessible to all levels of an inquiring society."
 
 # [Why?](./reasons.md)
