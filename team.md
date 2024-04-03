@@ -6,6 +6,9 @@ description: The members - current and former - that make up OSIUM.
 
 ![OSIUM_Logo](./assets/images/OSIUM_logo.png)
 
+# OSIUM...
+... is a grassroot initiative promotinh open science at Marburg University.
+
 # Vision
 Open science best practices implemented in public educational institutions, locally at Marburg University.
 
