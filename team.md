@@ -25,7 +25,7 @@ OSIUM collaborates within **Marburg University** with the MArburg Research Acade
 
 **Beyond Marburg University**, we collaborate with the Hessian Data Infrastructure <a href="https://www.uni-marburg.de/de/hefdi">HeFDI</a> and other Open Science actors in Germany.
 
-OSIUM is member of the Network of Open Science Initiatives <a href="https://osf.io/tbkzh/">NOSI</a> and therewith of the German Reproducibility Network <a href="https://reproducibilitynetwork.de/">GRN</a> and OSIUM is part of the global <a href="https://mattermost.brainhack.org/">Brainhack Community</a>.
+OSIUM is member of the Network of Open Science Initiatives <a href="https://osf.io/tbkzh/">NOSI</a> and part of the global <a href="https://mattermost.brainhack.org/">Brainhack Community</a>.
 
 # Current Board Members 
 
