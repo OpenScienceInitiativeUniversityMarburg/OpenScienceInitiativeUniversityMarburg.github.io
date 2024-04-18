@@ -2,6 +2,7 @@
 layout: default
 ---
 # Past Events
+- Open Science Days Marburg 2023
 - <a class="twitter-timeline" href="https://brainhack-marburg.github.io/" data-tweet-limit="1" data-height="300">Brainhack School 2023</a>
 - Scientists Day 2023 panel discussion on international mobility for researchers
 - Brainhack Marburg 2022
