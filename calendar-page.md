@@ -9,7 +9,7 @@ description: Bi-weekly open office hours as well as other various events.
 
 
 # Regular events
-We offer <a href="https://webconf.hrz.uni-marburg.de/b/lyd-ygt-uqx-rex">office hours</a> where you can join the online meeting and ask your questions on Open Science (every second Monday 13:00 o'clock). 
+We offer <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join">office hours</a> where you can join the online meeting and ask your questions on Open Science (every second Monday 13:00 o'clock). 
 
 We also offer trainings and peer-to-peer workshops in the following regular frameworks: <a href="https://www.uni-marburg.de/en/hefdi/hefdi-data-event/hds">HeFDI Data School</a> and <a href="https://www.uni-marburg.de/en/mara/program/calendar-of-events">MARA Workshops</a>
 
