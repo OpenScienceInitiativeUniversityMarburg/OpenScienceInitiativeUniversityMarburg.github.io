@@ -13,7 +13,7 @@ The Open Science community is constantly developing new open tools, platforms an
 
 # OSIUM Open Educational Resources
 
-<a href="https://osf.io/yrh7n/" class="btn">OSIUM projects on OSF</a>
+<a href="https://osf.io/yrh7n/">OSIUM projects on OSF</a>
 
 
 # Tools created by OSIUM members
