@@ -20,7 +20,7 @@ and join the group on <a href="https://discord.gg/KDR6Xc3aRg">discord</a>.
 
 # Support
 
-If you would like to show your support for the Open Science Initiative University Marburg (OSIUM) and be added to our supporter list, please write us a short <a href="mailto:osium.contact@gmail.com">mail</a> with your name, your affiliation with Marburg University and a few sentences about your relation to Open Science and we will be pleased to add you to the list.
+If you would like to show your support for the Open Science Initiative University Marburg (OSIUM) and be added to our <a href="https://openscienceinitiativeuniversitymarburg.github.io/team.html">supporter list</a>, please write us a short <a href="mailto:osium.contact@gmail.com">mail</a> with your name, your affiliation with Marburg University and a few sentences about your relation to Open Science and we will be pleased to add you to the list.
 
 
 ---
