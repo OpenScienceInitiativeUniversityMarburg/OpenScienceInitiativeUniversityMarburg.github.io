@@ -11,11 +11,19 @@ description: How to get involved
 
 ---
 
-# Get in touch
+# Who can take part in the LMU Open Science Center community?
 
-Whether you have questions getting started or you want to become an active OSIUM member, please feel free to join our <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join">Open Office</a>
+<a href="https://www.lists.uni-marburg.de/lists/sympa/subscribe/open-science?previous_action=info">Mailing List</a>
+
+Anyone from the Philipps-University Marburg and beyond can attend and participate in our events. To get notified of our activities, you can subscribe to our mailing list.
+
+# How to become an official member of OSIUM?
+
+Whether you have just questions getting started, ideas, feedback or you want to become an active OSIUM member, please feel free to join our <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join">Open Office</a>
 
 and join the group on <a href="https://discord.gg/KDR6Xc3aRg">discord</a>.
+
+By joining OSIUM, you express that you actively support OSIUM's mission. Beyond this, we encourage you to become an ‘ambassador’ of open research practices in whatever capacity you find suitable, e.g., contribute in delivering training events, hackathons or retreats, contribute in community building or get involved in other current activities of OSIUM.
 
 
 # Support
