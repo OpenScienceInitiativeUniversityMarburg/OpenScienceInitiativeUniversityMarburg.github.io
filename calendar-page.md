@@ -51,7 +51,7 @@ In the period between the kick-off and the TTT workshop, the participants prepar
 | | Event: Kick-Off | Event: TTT Retreat |
 |:---------------|:--------------|:---------------|
 | **date** | 03.09. 13:00-15:00 h | 30.09. 12:00 h - 02.10. 12:00 h |
-| **location** | online | Philipps University Marburg student residence on Lake Edersee |
+| **location** | online | Philipps University Marburg <a href="https://www.uni-marburg.de/de/zfh/studienheim">student residence on Lake Edersee</a> |
 | **costs** | | Students of Philipps-University Marburg: 20,-€ <br> Staff of  Philipps-University Marburg: 40,-€ <br> External staff: 60,-€ <br> <br> plus meals¹ |
 
 ¹ The Philipps-University student residence is a self-catering house. Catering will be organized centrally by the TTT Retreat organization team. The costs are expected to be around €30 per person.
