@@ -9,13 +9,15 @@ description: The members - current and former - that make up OSIUM.
 # OSIUM...
 ... is a grassroot initiative promoting open science at Marburg University.
 
-# Vision
-Open science best practices implemented in public educational institutions, locally at Marburg University.
-
 # Mission
-Furthering Open Science best practices as well as creating connections amongst scientists from all around the world.
+The interdisciplinary Open Science Initiative University Marburg (OSIUM) has the mission to promote and to foster open science practices at Philipps-University Marburg and beyond.
 
-To do so, OSIUM is happy to help you get started with open research practices, answer specific questions, and also support projects on open research workflows or open science in teaching.
+We seek to promote Open Science by offering **advanced training programs** (e.g., summer schools) for early career researchers and senior faculty members, public talks, help with the development of **core curricula** on open research practices. Even more, we seek to develop and implement alternative **incentive structures** in science that support the adoption of open science practices.
+
+Most important, we organize open peer-to-peer events like **hackathons** and **retreats** to promote the exchange between open science enthusiasts.
+
+<br>
+
 So if you have questions or ideas or just want to be part of this innovative and collaborative community, come to our next **Open Office Hour**: We meet online every second Monday at 1:00 pm and in person once a quarter for an **Open Science Lab**. Please find all OSIUM activities announced in our [calendar](./calendar-page.md).
 
 # Organizational structure
