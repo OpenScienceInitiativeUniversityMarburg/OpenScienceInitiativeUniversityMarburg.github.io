@@ -42,7 +42,6 @@ By promoting science that is more accessible, inclusive and transparent, open sc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I3Wkvx_ZaFo?si=mayYdTcjiGQxZWcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# **Let's revolutionize science together!**
 
 [back](./)
 
