@@ -11,7 +11,7 @@ description: How to get involved
 
 ---
 
-# Who can take part in the LMU Open Science Center community?
+# Who can take part in the OSIUM community?
 
 <a href="https://www.lists.uni-marburg.de/lists/sympa/subscribe/open-science?previous_action=info">Mailing List</a>
 
