@@ -3,11 +3,21 @@ layout: default
 title: OSIUM Events
 description: Bi-weekly open office hours as well as other various events.
 ---
+
+# Regular events
+
+## Biweekly Open Office Hour
+We offer <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join">office hours</a> where you can join the online meeting and ask your questions on Open Science (every second Monday 13:00 o'clock). 
+
+## MARA Open Science Program
+As MARA Working group, we also offer trainings and peer-to-peer workshops in the <a href="https://www.uni-marburg.de/de/mara/veranstaltungen/programme-und-zertifikate/open-science">MARA Open Science Program</a>
+
+## Hackathons & Retreats
+And we organize collaborative working formats like hackathons and retreats: [Past Events](./past-events.md). E.g., at the end of each year we traditionally organize a 2-3 day Winter School (formerly "Brainhack", now "Open Science Days").
+
 # Upcoming Events
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;hl=en&amp;src=osium.contact%40gmail.com&amp;ctz=Europe%2FBerlin" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-# Train the Trainer Retreat - digital skills in research
+## Train the Trainer Retreat - digital skills in research
 
 Digital skills in research range from basic skills in the use of digital tools and platforms to advanced knowledge in specific areas. These skills are needed more than ever, especially in future-oriented areas such as
 
@@ -75,11 +85,12 @@ and supported by
 <br>
 <br>
 
-# Regular events
-We offer <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join">office hours</a> where you can join the online meeting and ask your questions on Open Science (every second Monday 13:00 o'clock). 
+---
+# OSIUM Calendar
 
-We also offer trainings and peer-to-peer workshops in the following regular frameworks: <a href="https://www.uni-marburg.de/en/hefdi/hefdi-data-event/hds">HeFDI Data School</a> and <a href="https://www.uni-marburg.de/en/mara/program/calendar-of-events">MARA Workshops</a>
+For more information, please click on the event in the embedded calendar:
 
-And we organize collaborative working formats like hackathons and retreats: [Past Events](./past-events.md) 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;hl=en&amp;src=osium.contact%40gmail.com&amp;ctz=Europe%2FBerlin" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 [back](./)
