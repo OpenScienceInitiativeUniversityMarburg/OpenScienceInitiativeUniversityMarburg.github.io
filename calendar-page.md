@@ -77,7 +77,7 @@ and supported by
 
 ---
 
-# Regular events
+# Regular Events
 
 ## Biweekly Open Office Hour
 We offer <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join">office hours</a> where you can join the online meeting and ask your questions on Open Science (every second Monday 13:00 o'clock). 
