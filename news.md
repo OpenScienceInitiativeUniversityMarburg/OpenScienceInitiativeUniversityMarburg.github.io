@@ -68,9 +68,6 @@ Anyone from the Philipps-University Marburg and beyond can attend and participat
 {{ post.title }}
 <small>{{ post.date | date_to_string }}</small>
 </a>
-{% for tag in post.tags %}
-<a class="codinfox-tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
-{% endfor %}
 </p>
 </li>
 {% endif %}
