@@ -21,11 +21,17 @@ Anyone from the Philipps-University Marburg and beyond can attend and participat
 
 # Newsletter Archive
 
-2024-08: first newsletter(./assets/_posts/2024-08-14-first-newsletter.md)
-
+<ul>
 {% for post in site.posts %}
-* {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d %B %Y" }}
+  </li>
 {% endfor %}
+</ul>
+
+<!-- {% for post in site.posts %}
+* {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+{% endfor %} -->
 
 
 ---
