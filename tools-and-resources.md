@@ -6,10 +6,18 @@ description: A collection of tools and resources regarding open science and open
 
 The Open Science community is constantly developing new open tools, platforms and standards that help to make your research transparent, open and reusable. 
 
----
 
 ![Rainbow](./assets/images/rainbow-of-open-science.png)
 
+
+---
+
+# Open Science at Marburg University
+
+<a href="https://www.uni-marburg.de/de/open-science/">Here you can find an overview over the Open Science related services at Philipps-University Marburg</a>
+
+
+---
 
 # OSIUM Open Educational Resources
 
@@ -26,6 +34,7 @@ The Open Science community is constantly developing new open tools, platforms an
 <a href="https://zenodo.org/communities/hefdi/?page=1&size=20">Lydia's slides on Open Science in general</a>
 
 
+---
 
 # Some further tools are linked below:
 
@@ -54,13 +63,6 @@ __Training__
 <a href="https://repro4everyone.org/">Repor4Everyone</a>
 
 
-
-
----
-
-# Open Science at Marburg University
-
-<a href="https://www.uni-marburg.de/de/open-science/">Here you can find an overview over the Open Science related services at Philipps-University Marburg</a>
 
 
 [back](./)
