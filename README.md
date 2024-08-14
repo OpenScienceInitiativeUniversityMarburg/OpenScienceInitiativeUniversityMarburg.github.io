@@ -124,9 +124,8 @@ The theme contains a minimal test suite, to ensure a site with the theme would b
 * template:
   
 ---
-layout: post
+layout: default
 title: "Title"
-tags: [tag1, tag2]
 
 ---
 
