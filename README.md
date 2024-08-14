@@ -131,8 +131,8 @@ title: "Title"
 
 # Marburg Open Science News
 
-* news 1 with Uni Marburg link: https://www.uni-marburg.de/de/hrz/dienste/url-shortener
-* News 2 with Uni Marburg link: https://www.uni-marburg.de/de/hrz/dienste/url-shortener
+* news 1 with Uni Marburg link: ```<https://www.uni-marburg.de/de/hrz/dienste/url-shortener>
+* News 2 with Uni Marburg link:     <https://www.uni-marburg.de/de/hrz/dienste/url-shortener>
   
 ---
 
@@ -140,14 +140,14 @@ title: "Title"
 
 ## OSIUM Events
 
-* **XX.YY.-XX.YY.** (Location) | **Event Title**: https://t1p.de/osium-retreat (customized short link via https://t1p.de/)
+* **XX.YY.-XX.YY.** (Location) | **Event Title**: < https://t1p.de/osium-retreat > (customized short link via https://t1p.de/)
 
 
 ## Other Events
 
-* **XX.YY.-XX.YY.** (Location) | **Event Title**: https://t1p.de/
+* **XX.YY.-XX.YY.** (Location) | **Event Title**: < https://t1p.de/ >
 
-* **XX.YY.-XX.YY.** (Location) | **Event Title**: https://t1p.de/
+* **XX.YY.-XX.YY.** (Location) | **Event Title**: < https://t1p.de/ >
 
 ---
 
