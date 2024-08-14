@@ -12,7 +12,7 @@ description: Open Science can save the planet.
 
 ... or of the **reproducibility crisis**?
 
-![reproducibility](./assets/images/Gandalf_memory-reproducibility.jpg) (https://www.nature.com/articles/533452a)
+[![reproducibility](./assets/images/Gandalf_memory-reproducibility.jpg)](https://www.nature.com/articles/533452a)
 
 ... or of #IchBinHanna or **the wheel of priviledge**?
 
