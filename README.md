@@ -122,7 +122,9 @@ The theme contains a minimal test suite, to ensure a site with the theme would b
 * use markdown
 * use url-shorteners: for University Marburg links: https://www.uni-marburg.de/de/hrz/dienste/url-shortener or for all other links: https://t1p.de/ is great (you can even customize the short link)
 * template:
-  
+
+
+```
 ---
 layout: default
 title: "Title"
@@ -132,8 +134,8 @@ tags: [tag1, tag2]
 
 # Marburg Open Science News
 
-* news 1 with Uni Marburg link: < https://www.uni-marburg.de/de/hrz/dienste/url-shortener >
-* News 2 with Uni Marburg link: < https://www.uni-marburg.de/de/hrz/dienste/url-shortener >
+* news 1 with Uni Marburg link: <https://www.uni-marburg.de/de/hrz/dienste/url-shortener>
+* News 2 with Uni Marburg link: <https://www.uni-marburg.de/de/hrz/dienste/url-shortener>
   
 ---
 
@@ -141,14 +143,14 @@ tags: [tag1, tag2]
 
 ## OSIUM Events
 
-* **XX.YY.-XX.YY.** (Location) | **Event Title**: < https://t1p.de/osium-retreat > (customized short link via https://t1p.de/)
+* **XX.YY.-XX.YY.** (Location) | **Event Title**: <https://t1p.de/osium-retreat> (customized short link via https://t1p.de/)
 
 
 ## Other Events
 
-* **XX.YY.-XX.YY.** (Location) | **Event Title**: < https://t1p.de/ >
+* **XX.YY.-XX.YY.** (Location) | **Event Title**: <https://t1p.de/>
 
-* **XX.YY.-XX.YY.** (Location) | **Event Title**: < https://t1p.de/ >
+* **XX.YY.-XX.YY.** (Location) | **Event Title**: <https://t1p.de/>
 
 ---
 
@@ -179,3 +181,5 @@ If you are interested, have questions, ideas or comments, please do not hesitat 
 
 or by telephone:
 *Dr. Lydia Riedl: +49 6421-28-25290*
+
+```
