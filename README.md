@@ -119,8 +119,10 @@ The theme contains a minimal test suite, to ensure a site with the theme would b
 
 # The Newsletter
 
+* to send the newsletter, you should be mod of open-science@lists.uni-marburg.de with your Marburg-Account. Please contact Lydia to become a mod of the list.
 * use markdown
 * use url-shorteners: for University Marburg links: https://www.uni-marburg.de/de/hrz/dienste/url-shortener or for all other links: https://t1p.de/ is great (you can even customize the short link)
+* subject: "Open Science in Marburg: Newsletter XYZ"
 * template:
 
 
