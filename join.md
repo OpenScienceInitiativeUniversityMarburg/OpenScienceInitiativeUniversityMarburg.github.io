@@ -11,13 +11,13 @@ description: How to get involved
 
 ---
 
-# Who can take part in the OSIUM community?
+# Who Can Take Part in the OSIUM Community?
 
 <a href="https://www.lists.uni-marburg.de/lists/sympa/subscribe/open-science?previous_action=info">Mailing List</a>
 
 Anyone from the Philipps-University Marburg and beyond can attend and participate in our events. To get notified of our activities, you can subscribe to our mailing list.
 
-# How to become an official member of OSIUM?
+# How to Become an Official Member of OSIUM?
 
 Whether you have just questions getting started, ideas, feedback or you want to become an active OSIUM member, please feel free to join our <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join">Open Office</a>
 
@@ -32,7 +32,7 @@ If you would like to show your support for the Open Science Initiative Universit
 
 
 ---
-# Join our upcoming events
+# Join Our Upcoming Events
 
 For more information, please click on the event in the embedded calendar:
 
