@@ -114,3 +114,68 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+
+---
+
+# The Newsletter
+
+* use markdown
+* use url-shorteners: for University Marburg links: https://www.uni-marburg.de/de/hrz/dienste/url-shortener or for all other links: https://t1p.de/ is great (you can even customize the short link)
+* template:
+  
+---
+layout: post
+title: "Title"
+tags: [tag1, tag2]
+
+---
+
+# Marburg Open Science News
+
+* news 1 with Uni Marburg link: https://www.uni-marburg.de/de/hrz/dienste/url-shortener
+* News 2 with Uni Marburg link: https://www.uni-marburg.de/de/hrz/dienste/url-shortener
+  
+---
+
+# Upcomig events
+
+## OSIUM Events
+
+* **XX.YY.-XX.YY.** (Location) | **Event Title**: https://t1p.de/osium-retreat (customized short link via https://t1p.de/)
+
+
+## Other Events
+
+* **XX.YY.-XX.YY.** (Location) | **Event Title**: https://t1p.de/
+
+* **XX.YY.-XX.YY.** (Location) | **Event Title**: https://t1p.de/
+
+---
+
+# Might be interesting: XYZ
+
+e.g.,
+* overview over other Open Science communities
+* overview over Marburg University services
+* addressing specific problems (e.g., reproducibility crisis, career in academia, publish or perish - those are also in short described at [OSIUM website](https://openscienceinitiativeuniversitymarburg.github.io/reasons.html))
+* How to... (addressing a specific topic in a super short way, e.g., like Heidi Seibold in her [blog posts](https://heidiseibold.com/posts/))
+
+---
+
+# New OSIUM supporters
+
+* Name 1 (including title - could be useful when addressing the supporter's list to someone who takes care)
+* Name 2 (including title)
+
+Learn how to join and/or support OSIUM by checking our [website](https://openscienceinitiativeuniversitymarburg.github.io/join.html)!
+
+---
+This newsletter is sent out by the Open Science Initiative University Marburg ([OSIUM](https://openscienceinitiativeuniversitymarburg.github.io/)), the free Open Science Community Marburg. 
+It informs about news concerning Open Science at the Philipps-University Marburg.
+Unsubscribe from the newsletter: [unsubscribe](https://www.lists.uni-marburg.de/lists/sympa/info/open-science)
+
+If you are interested, have questions, ideas or comments, please do not hesitat to contact us:
+*E-mail address: [osium.contact@gmail.com](mailto:osium.contact@gmail.com)*
+
+or by telephone:
+*Dr. Lydia Riedl: +49 6421-28-25290*
