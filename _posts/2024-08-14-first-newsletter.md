@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "First OSIUM Newsletter"
+tags: [OSIUM, events, retreat, trainer, MARA, Open Educational Resources]
 
 ---
 
@@ -21,14 +22,14 @@ Learn how to join and/or support OSIUM by checking our [website](https://opensci
 
 # Marburg Open Science News
 
-* The Philipps-University Marburg has an official Open Science Website: https://www.uni-marburg.de/open-science
+* The Philipps-University Marburg has an official Open Science Website: <https://www.uni-marburg.de/open-science>
 Please check out to learn more about the local services!
 
-* MARA published the Open Science program: https://uni-marburg.de/3sYZJI
+* MARA published the Open Science program: <https://uni-marburg.de/3sYZJI>
 Including workshops on research data management, open methods and reproducibility, open source, open research in (digtal) humanities and open access
 
-* The Philipps-University adopted a new policy on Open Educational Resources: https://uni-marburg.de/PCkxLd
-BTW: Open Educational Resources are already and can be published on ILIAS: https://uni-marburg.de/sGutg2
+* The Philipps-University adopted a new policy on Open Educational Resources: <https://uni-marburg.de/PCkxLd>
+BTW: Open Educational Resources are already and can be published on ILIAS: <https://uni-marburg.de/sGutg2>
 
 ---
 
@@ -36,28 +37,28 @@ BTW: Open Educational Resources are already and can be published on ILIAS: https
 
 ## OSIUM Events
 
-* **30.09.-02.10.** (Edersee) | **Train the Trainer Retreat - digital skills in research**: https://t1p.de/osium-retreat
+* **30.09.-02.10.** (Edersee) | **Train the Trainer Retreat - digital skills in research**: <https://t1p.de/osium-retreat>
 For everyone who wants to teach / supervise about Open Science!
 **registration open**
 
 ## Other Events
 
-* **11.-12.09.** (Aachen) | Data Stewardship goes Germany: https://t1p.de/mdzoc
+* **11.-12.09.** (Aachen) | Data Stewardship goes Germany: <https://t1p.de/mdzoc>
 
-* **17.-18.09.** (Mainz) | Open Science Festival Mainz: https://t1p.de/moqec
+* **17.-18.09.** (Mainz) | Open Science Festival Mainz: <https://t1p.de/moqec>
 Registration extended
 
-* **October** (online) | HeFDI Data School starts again: https://t1p.de/hefdids
-Open for suggestions: https://t1p.de/12u6g
+* **October** (online) | HeFDI Data School starts again: <https://t1p.de/hefdids>
+Open for suggestions: <https://t1p.de/12u6g>
 
 ---
 
 # Might be interesting: OSIUM publications
 
-* OSIUM Open Educational Resources: https://osf.io/yrh7n/
-* G0rella: https://g0rella.github.io/
-* Julia's workshops on Open Science for neuroscientists: https://sfbs.pages.uni-marburg.de/sfb135/nowa/nowa.site/workshop/
-* Lydia's slides on Open Science in general: https://doi.org/10.5281/zenodo.12569620
+* OSIUM Open Educational Resources: <https://osf.io/yrh7n/>
+* G0rella: <https://g0rella.github.io/>
+* Julia's workshops on Open Science for neuroscientists: <https://sfbs.pages.uni-marburg.de/sfb135/nowa/nowa.site/workshop/>
+* Lydia's slides on Open Science in general: <https://doi.org/10.5281/zenodo.12569620>
 
 ---
 
