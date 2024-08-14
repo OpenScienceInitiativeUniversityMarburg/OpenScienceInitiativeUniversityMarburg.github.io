@@ -19,7 +19,7 @@ description: Open Science can save the planet.
 [![academic_wheel_privileges](./assets/images/academic wheel of privilege.JPG)](https://www.youtube.com/watch?v=mzEdTyA06cU)
 
 
-## The good news is: Researchers and scientific staff all over the world researchers are rising up against these problems, for example by making science more open, transparent and reusable for other researchers and the society as a whole.
+### The good news is: Researchers and scientific staff all over the world researchers are rising up against these problems, for example by making science more open, transparent and reusable for other researchers and the society as a whole.
 
 
 ---
