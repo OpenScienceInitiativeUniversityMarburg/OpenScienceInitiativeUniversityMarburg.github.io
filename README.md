@@ -126,13 +126,14 @@ The theme contains a minimal test suite, to ensure a site with the theme would b
 ---
 layout: default
 title: "Title"
+tags: [tag1, tag2]
 
 ---
 
 # Marburg Open Science News
 
-* news 1 with Uni Marburg link: ```<https://www.uni-marburg.de/de/hrz/dienste/url-shortener>
-* News 2 with Uni Marburg link:     <https://www.uni-marburg.de/de/hrz/dienste/url-shortener>
+* news 1 with Uni Marburg link: < https://www.uni-marburg.de/de/hrz/dienste/url-shortener >
+* News 2 with Uni Marburg link: < https://www.uni-marburg.de/de/hrz/dienste/url-shortener >
   
 ---
 
