@@ -56,7 +56,17 @@ In the period between the kick-off and the TTT workshop, the participants prepar
 
 ¹ The Philipps-University student residence is a self-catering house. Catering will be organized centrally by the TTT Retreat organization team. The costs are expected to be around €30 per person.
 
+**Program**:
 
+| | Time | Session |
+|:---------------|:--------------|:---------------|
+| 30.09.2024 | 12:00 - 15:30 | Welcome & Introduction to Open Science |
+| 30.09.2024 | 15:30 - 17:30 | Didactics Session 1 |
+| 01.10.2024 | 09:00 - 12:00 | Didactics Session 2 |
+| 01.10.2024 | 12:00 - 13:30 | Lunch Break |
+| 01.10.2024 | 13:30 - 17:30 | Didactics Session 3 |
+| 01.10.2024 | 17:30 - 19:00 | Practical Didactics Training |
+| 02.10.2024 | 09:00 - 12:00 | Didactics Session 4 & Wrap Up |
 
 → <a href="https://redcap.kks.uni-marburg.de/surveys/?s=9HXRRT48NNE4LFRW">REGISTER</a>
 
