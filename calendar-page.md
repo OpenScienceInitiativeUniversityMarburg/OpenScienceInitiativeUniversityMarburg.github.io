@@ -24,9 +24,6 @@ Whether you're new to Open Science or looking to deepen your expertise, the Open
 
 <br>
 
-Imparting this knowledge and skills in university teaching helps to ensure high-quality research and make it sustainable.
-We are therefore organizing a retreat for multipliers who would like to integrate these extremely important topics into their teaching and supervision.
-
 → <a href="https://forms.gle/AQAYYaKWYp1oYmnGA">REGISTER</a>
 
 <br>
