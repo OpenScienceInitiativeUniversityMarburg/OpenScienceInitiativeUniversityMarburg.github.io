@@ -26,6 +26,8 @@ Whether you're new to Open Science or looking to deepen your expertise, the Open
 
 → <a href="https://forms.gle/AQAYYaKWYp1oYmnGA">REGISTER</a>
 
+![TTT-Logo](./assets/images/QR-Code_OSIUM-calendar-page.png)
+
 <br>
 
 
