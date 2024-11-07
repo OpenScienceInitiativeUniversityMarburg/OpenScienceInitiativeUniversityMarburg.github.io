@@ -27,11 +27,13 @@ The Open Science community is constantly developing new open tools, platforms an
 # Tools created by OSIUM members
 
 
-<a href="https://g0rella.github.io/gorella_mwn/index.html">G0rella: open science learning modules for neuroscience</a>
+<a href="https://g0rella.github.io/gorella_mwn/index.html">G0rella: JupyterBook on open science in neuroscience by Peer Herholz, José C. García Alanis and Christoph Vogelbacher</a>
 
-<a href="https://sfbs.pages.uni-marburg.de/sfb135/nowa/nowa.site/workshop/">Julia’s workshops for neuroscience</a>
+<a href="https://julia-pfarr.gitlab.io/nowaschool/intro.html">NOWA Tutorials: JupyterBook on digital literacy in neuroscience by Julia Katharina Pfarr</a>
 
-<a href="https://zenodo.org/communities/hefdi/?page=1&size=20">Lydia's slides on Open Science in general</a>
+<a href="https://diler-digitell.github.io/DiLER_digital_literacy_course/index.html">DiLER Digital Teaching: JupyterBook on digital literacy by Michael Ernst and Felix Körber</a>
+
+<a href="https://zenodo.org/communities/hefdi/?page=1&size=20">HeFDI Data School: slides on Open Science, Open Data and Open Access in general by Lydia Riedl</a>
 
 
 ---
