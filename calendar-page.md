@@ -31,7 +31,7 @@ Whether you're new to Open Science or looking to deepen your expertise, the Open
 <br>
 
 
-The Open Science Days 2024, supported by <!-- <a href="https://www.theadaptivemind.de/">The Adaptive Mind (TAM)</a>, --> <a href="https://www.uni-marburg.de/de/forschung/kontakt/eresearch">eResearch Center</a>  <!--, <a href="https://www.uni-marburg.de/de/ub">University Library</a> --> and <a href="https://www.uni-marburg.de/de/mara">MARA</a>, aims to increase networking opportunities among Open Science enthusiasts.
+The Open Science Days 2024, supported by <a href="https://www.uni-marburg.de/de/mara">MARA</a>, <a href="https://www.uni-marburg.de/de/forschung/kontakt/eresearch">eResearch Center</a>, <a href="https://fid-media.de/">Fachinformationsdienst Kommunikations- und Medienwissenschaften (FID Media)</a>  <!--, <a href="https://www.uni-marburg.de/de/ub">University Library</a> --> and  <a href="https://www.theadaptivemind.de/">The Adaptive Mind (TAM)</a>, aims to increase networking opportunities among Open Science enthusiasts.
 
 *OSIUM is a <a href="https://www.uni-marburg.de/de/mara/vernetzung/wissenschaftsgruppen/arbeitsgruppe-35/arbeitsgruppe-35-open-science-initiative-university-marburg-2018">working group</a> open to all members of the university that are interested in the topic of open and sustainable science. <a href="https://openscienceinitiativeuniversitymarburg.github.io/join.html">Get in touch</a>!
 
