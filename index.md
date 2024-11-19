@@ -26,4 +26,6 @@ OSIUM is a is a grassroot initiative on voluntary basis promoting open science a
 OSIUM is happy to collaborate with you on open research practices or specific projects on open research workflows or open science in teaching.
 So if you have questions or ideas or just want to be part of this innovative and collaborative community, come to our next **Open Office Hour**: We meet online every second Monday at 1:00 pm and in person once a quarter for an **Open Science Lab**. Please find all OSIUM activities announced in our [calendar](./calendar-page.md).
 
+---
+
 # [JOIN OUR TEAM!](./join.md)
