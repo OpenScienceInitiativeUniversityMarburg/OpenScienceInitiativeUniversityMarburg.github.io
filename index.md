@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Welcome from OSIUM
-description: Gaining knowledge is the first step to wisdom. Sharing knowledge is the first the step to humanity.
+description: Building a community for open and sustainable science.
 ---
 
 ![OSIUM_Logo](./assets/images/OSIUM_logo.png)
@@ -18,9 +18,12 @@ In its <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949">Recommendati
 
 # [How?](./tools-and-resources.md)
 The ever-growing and very engaged Open Science community is constantly developing new open tools, platforms and standards that help to make your research transparent, open and reusable.
+In addition, the growing open science community offers peer-to-peer support and joint activities from which your research can benefit substantially:
 
+# [Open to everyone - join OSIUM!](./team.md)
+
+OSIUM is a is a grassroot initiative on voluntary basis promoting open science at Marburg University.
 OSIUM is happy to collaborate with you on open research practices or specific projects on open research workflows or open science in teaching.
 So if you have questions or ideas or just want to be part of this innovative and collaborative community, come to our next **Open Office Hour**: We meet online every second Monday at 1:00 pm and in person once a quarter for an **Open Science Lab**. Please find all OSIUM activities announced in our [calendar](./calendar-page.md).
 
-
-
+# [JOIN OUR TEAM!](./join.md)
