@@ -4,27 +4,40 @@ title: Tools & Resources
 description: A collection of tools and resources regarding open science and open science best practices.
 ---
 
-The Open Science community is constantly developing new open tools, platforms and standards that help to make your research transparent, open and reusable. 
 
+# Open Science Services
 
+## Marburg Open Science Services
+
+<a href="https://www.uni-marburg.de/de/open-science/">Here you can find an overview</a> over the Open Science related services at Philipps-University Marburg.
+
+## German Open Science Services
+
+<a href="https://www.nfdi.de/service/?lang=en">NFDI</a>
+
+## EU Open Science Services
+
+<a href="https://open-science-cloud.ec.europa.eu/">EOSC EU-Node</a>
+
+## Some Further Open Science Services
+
+See the "rainbow of open science practices" for an overview:
 ![Rainbow](./assets/images/rainbow-of-open-science.png)
 
-
----
-
-# Open Science at Marburg University
-
-<a href="https://www.uni-marburg.de/de/open-science/">Here you can find an overview over the Open Science related services at Philipps-University Marburg</a>
+As OSIUM, we use the "Open Science Framework" <a href="https://osf.io/">OSF</a> for publishing our materials. OSF is an open access repository for managing scientific projects and share data, material, registrations, preprints and more)
 
 
 ---
 
-# OSIUM Open Educational Resources
-
-<a href="https://osf.io/yrh7n/">OSIUM projects on OSF</a>
+# Open Educational Resources
 
 
-# Tools created by OSIUM members
+## OSIUM Open Educational Resources
+
+OSIUM projects on <a href="https://osf.io/yrh7n/">OSF</a>.
+
+
+## Open Educational Resources created by OSIUM members
 
 
 <a href="https://g0rella.github.io/gorella_mwn/index.html">G0rella: JupyterBook on open science in neuroscience by Peer Herholz, José C. García Alanis and Christoph Vogelbacher</a>
@@ -36,9 +49,7 @@ The Open Science community is constantly developing new open tools, platforms an
 <a href="https://zenodo.org/communities/hefdi/?page=1&size=20">HeFDI Data School: slides on Open Science, Open Data and Open Access in general by Lydia Riedl</a>
 
 
----
-
-# Some further tools are linked below:
+## Some further Open Educational Resources are linked below:
 
 __Tool Overviews__
 
@@ -63,6 +74,11 @@ __Training__
 <a href="https://www.fosteropenscience.eu/">FOSTER Open Science</a>
 
 <a href="https://repro4everyone.org/">Repor4Everyone</a>
+
+
+---
+
+# [JOIN OUR TEAM!](./join.md)
 
 
 
