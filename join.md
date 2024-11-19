@@ -13,7 +13,7 @@ description: How to get involved
 
 # Who Can Take Part in the OSIUM Community?
 
-Every researcher and non-researcher from the Philipps-University Marburg and beyond can attend and participate in our events, no matter from which domain or at which career level. To get notified of our activities, you can subscribe to our <a href="https://www.lists.uni-marburg.de/lists/sympa/subscribe/open-science?previous_action=info">mailing list</a>
+Every researcher and non-researcher from the Philipps-University Marburg and beyond can attend and participate in our events, no matter from which domain or at which career level. To get notified of our activities, you can subscribe to our <a href="https://www.lists.uni-marburg.de/lists/sympa/subscribe/eresearch-openscience-news?previous_action=info">newsletter</a>
 
 # How to Become an Official Member of OSIUM?
 
