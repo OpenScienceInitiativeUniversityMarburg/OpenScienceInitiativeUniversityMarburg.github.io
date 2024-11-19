@@ -11,6 +11,9 @@ description: How to get involved
 
 ---
 
+# Why should I become an active OSIUM member?
+By becoming an active member, you join a community committed to making research more open, transparent, and inclusive. You’ll have the chance to collaborate on exciting projects, promote open science in Marburg and beyond and organize community events such as peer2peer workshops, hackathons or retreats. Whether you're a student, researcher, or simply passionate about science, your voice and ideas matter. Together, we can build a more accessible and impactful scientific landscape for everyone.
+
 # Who Can Take Part in the OSIUM Community?
 
 Every researcher and non-researcher from the Philipps-University Marburg and beyond can attend and participate in our events, no matter from which domain or at which career level. To get notified of our activities, you can subscribe to our <a href="https://www.lists.uni-marburg.de/lists/sympa/subscribe/eresearch-openscience-news?previous_action=info">newsletter</a>
