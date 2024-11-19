@@ -6,7 +6,7 @@ description: Open Science can save the planet.
 
 # Reason 1: Something's Going Wrong in Science...
 
-... have you ever heard of (or even already experienced) the **publish or perish** attitude?
+... have you ever heard of (or even already experienced) **publish or perish**?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y0YYgdSEdu4?si=OraoYHbMGrrMEtyu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
