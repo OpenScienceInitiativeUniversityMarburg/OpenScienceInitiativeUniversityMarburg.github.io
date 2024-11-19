@@ -14,7 +14,7 @@ description: Check our news and subscribe
 
 # Subscribe to Our Newsletter
 
-<a href="https://www.lists.uni-marburg.de/lists/sympa/subscribe/open-science?previous_action=info">Subscribe to our newsletter</a>
+<a href="https://www.lists.uni-marburg.de/lists/sympa/subscribe/eresearch-openscience-news?previous_action=info">Subscribe to our newsletter</a>
 
 Anyone from the Philipps-University Marburg and beyond can attend and participate in our events. To get notified of our activities, you can subscribe to our mailing list.
 
