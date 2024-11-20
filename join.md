@@ -20,7 +20,8 @@ Every researcher and non-researcher from the Philipps-University Marburg and bey
 
 # How to Become an Official Member of OSIUM?
 
-To become an OSIUM member, just join the group on <a href="https://discord.gg/KDR6Xc3aRg">discord</a>! This is our main communication platform. If something doesn't work, please don't hesitat to rop us a <a href="mailto:osium.contact@gmail.com">mail</a>.
+To become an OSIUM member, just join the group on <a href="https://discord.gg/KDR6Xc3aRg">discord</a>! This is our main communication platform. If something doesn't work, please don't hesitate to drop us a <a href="mailto:osium.contact@gmail.com">mail</a>.
+! Please note further information about our team communication in the corresponding discord channel descriptions !
 
 By becoming an active member, you express that you actively support OSIUM's mission. Beyond this, we encourage you to become an ‘ambassador’ of open research practices in whatever capacity you find suitable, e.g., contribute in delivering training events, hackathons or retreats, contribute in community building or get involved in other current activities of OSIUM.
 
