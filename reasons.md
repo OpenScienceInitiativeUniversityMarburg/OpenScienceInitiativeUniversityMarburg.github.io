@@ -34,7 +34,7 @@ Meanwhile, there are not only recommendations like the Berlin Declaration on Ope
 Literature demonstrates that "open research is associated with increases in citations, media attention, potential collaborators, job opportunities and funding opportunities" [[7](https://doi.org/10.7554/eLife.16800)].
 
 ![Open_Access_Impact](./assets/images/WirkungenVonOpenAccess2022-Grafik3-Ergebnisse.jpg)
-
+CC-BY [[6](https://doi.org/10.34657/7666)]
 
 ---
 
