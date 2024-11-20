@@ -18,8 +18,9 @@ description: Open Science can save the planet.
 
 [![academic_wheel_privileges](./assets/images/academic wheel of privilege.JPG)](https://www.youtube.com/watch?v=mzEdTyA06cU)
 
+However, good scientific practice is not just about publication in selected venues, but about the entire research process. Open Science seeks to address these challenges by making the research process transparent, open and reusable. This ultimately increases efficiency, diversity, reliability and visibility - key principles emphasized by UNESCO: 
 
-### The good news is: Researchers and scientific staff all over the world researchers are rising up against these problems, for example by making science more open, transparent and reusable for other researchers and the society as a whole.
+[![UNESCO-reasons](./assets/images/UNESCO_why-open-science.png)](https://doi.org/10.54677/GIIC6829)
 
 
 ---
