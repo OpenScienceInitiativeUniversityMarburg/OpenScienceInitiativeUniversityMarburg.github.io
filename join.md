@@ -16,7 +16,7 @@ By becoming an active member, you join a community committed to making research 
 
 # Who Can Take Part in the OSIUM Community?
 
-Every researcher and non-researcher from the Philipps-University Marburg and beyond can attend and participate in our events, no matter from which domain or at which career level. To get notified of our activities, you can subscribe to our <a href="https://www.lists.uni-marburg.de/lists/sympa/subscribe/eresearch-openscience-news?previous_action=info">newsletter</a>
+Every researcher and non-researcher from the Philipps-University Marburg and beyond can attend and participate in our events, no matter from which domain or at which career level.  Membership is open and free of charge. No small print. 
 
 # How to Become an Official Member of OSIUM?
 
@@ -40,6 +40,8 @@ Beyond the Open Office Hours, we organize regularly community events like peer2p
 For more information, please click on the event in the embedded calendar:
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;hl=en&amp;src=osium.contact%40gmail.com&amp;ctz=Europe%2FBerlin" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+To get notified of our activities, you can subscribe to our <a href="https://www.lists.uni-marburg.de/lists/sympa/subscribe/eresearch-openscience-news?previous_action=info">newsletter</a>
 
 ---
 
