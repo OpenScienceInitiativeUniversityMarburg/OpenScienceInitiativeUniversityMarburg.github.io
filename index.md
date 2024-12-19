@@ -20,7 +20,7 @@ In its <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949">Recommendati
 The ever-growing and very engaged Open Science community is constantly developing new open tools, platforms and standards that help to make your research transparent, open and reusable.
 In addition, the growing open science community offers peer-to-peer support and joint activities from which your research can benefit substantially.
 
-**If you are interested in Open Science in general, in the Marburg Open Science Services, collaboration options or our local Open Science Community OSIUM, we are thrilled to give talks in yours courses or discuss your ideas with your team. So please don't hesitate to <a href="mailto:osium.contact@gmail.com">contact</a> us!**
+**If you are interested in Open Science in general, in the Marburg Open Science Services, collaboration options or our local Open Science Community OSIUM, we are thrilled to give talks in your courses or discuss your ideas with your team. So please don't hesitate to <a href="mailto:osium.contact@gmail.com">contact</a> us!**
 
 # [Open to everyone - join OSIUM!](./team.md)
 
