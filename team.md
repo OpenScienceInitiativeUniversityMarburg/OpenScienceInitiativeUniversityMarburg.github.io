@@ -43,7 +43,13 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
 <a href="https://github.com/JoseAlanis">José Alanis</a>, <a href="https://github.com/MalteGueth">Malte Gueth</a>, <a href="https://github.com/PeerHerholz">Peer Herholz</a>, <a href="https://www.ukgm.de/ugm_2/deu/umr_psy/umr_psy_team.php?id=1398">Jens Sommer</a>, <a href="https://github.com/vogelbac">Christoph Vogelbacher</a>
 
 # Supporter List
-_going to come_
+_This list is not yet complete and will be continuously updated._
+
+Prof. Dr. Dominik Endres
+Prof. Dr. Andreas Jansen
+Dr. Sophia Hercher
+Prof. Dr. Daniel Heck
+
 
 ---
 
