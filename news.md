@@ -5,12 +5,14 @@ description: Check our news and subscribe
 ---
 
 ---
+<!-- commented out this section until we decided on a new social media presence -->
 
-# Follow Us on X
+<!-- # Follow Us on X
 
 <a class="twitter-timeline" href="https://twitter.com/OpenScienceUM?ref_src=twsrc%5Etfw" data-tweet-limit="1" data-height="300">Tweets by OpenScienceUM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
+-->
 
 # Subscribe to Our Newsletter
 
