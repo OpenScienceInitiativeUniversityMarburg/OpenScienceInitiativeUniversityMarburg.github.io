@@ -34,7 +34,7 @@ OSIUM is member of the Network of Open Science Initiatives <a href="https://osf.
 
 Neuroscientists, biologists, psychologists, physicists, computer scientists, linguists and media scientists have come together to promote Open Science at Marburg University for the benefit of all sciences. We are always looking for new Open Science enthusiasts to join the team!
 
-<a href="https://orcid.org/0000-0002-0949-2000">Franziska Usée</a>, <a href="https://www.researchgate.net/profile/Monica-Berdugo-Moreno">Monica B. Berdugo</a>, <a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a>, <a href="https://de.linkedin.com/in/bj%C3%B6rn-siepe-11a750219">Björn Siepe</a>
+<a href="https://www.linkedin.com/in/niau/">Nick Augustat</a>, <a href="https://www.researchgate.net/profile/Monica-Berdugo-Moreno">Monica B. Berdugo</a>, <a href="https://www.uni-marburg.de/de/universitaet/lehre/zukunftswerkstatt/das-team/sophia-hercher">Sophia Hercher</a>, <a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a>, <a href="https://de.linkedin.com/in/bj%C3%B6rn-siepe-11a750219">Björn Siepe</a>, <a href="https://orcid.org/0000-0002-0949-2000">Franziska Usée</a>
 
 # Former Board Members 
 <a href="https://de.linkedin.com/in/julia-katharina-pfarr-2a6437236">Julia Pfarr</a>, <a href="https://github.com/vogelbac">Christoph Vogelbacher</a>, <a href="https://github.com/thecyclingcyclopse">Thomas S. Hartmann</a>, <a href="https://de.linkedin.com/in/karlinhossner">Karlin Hossner</a>, <a href="https://de.linkedin.com/in/ina-thome-a31766182">Ina Thome</a>
