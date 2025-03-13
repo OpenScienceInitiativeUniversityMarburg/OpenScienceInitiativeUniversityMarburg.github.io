@@ -47,7 +47,6 @@ _This list is not yet complete and will be continuously updated._
 
 * Prof. Dr. Dominik Endres
 * Prof. Dr. Andreas Jansen
-* Dr. Sophia Hercher
 * Prof. Dr. Daniel Heck
 
 
