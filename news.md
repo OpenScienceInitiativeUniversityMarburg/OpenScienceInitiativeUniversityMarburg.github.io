@@ -21,7 +21,7 @@ description: Check our news and subscribe
 Anyone from the Philipps-University Marburg and beyond can attend and participate in our events. To get notified of our activities, you can subscribe to our mailing list.
 
 
-# Newsletter Archive
+<!-- # Newsletter Archive
 
 {% for post in site.posts %}
 * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
@@ -75,7 +75,7 @@ Anyone from the Philipps-University Marburg and beyond can attend and participat
 {% endif %}
 {% endfor %}
 </ul>
-{% endfor %}
+{% endfor %} -->
 
 
 ---
