@@ -9,7 +9,6 @@ description: Bi-weekly open office hours as well as other various events.
 
 ## One-Day Train the Trainer Retreat 2025
 
-**10.11.2025** in Marburg
 
 ![TTT-Logo](./assets/images/TTT_Logo.png)
 
