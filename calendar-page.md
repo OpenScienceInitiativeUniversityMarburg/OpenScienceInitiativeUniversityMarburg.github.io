@@ -11,7 +11,7 @@ description: Bi-weekly open office hours as well as other various events.
 
 **10.11.2025** in Marburg
 
-![TTT-Logo](./assets/images/QR-Code_OSIUM-calendar-page.png)
+![TTT-Logo](./assets/images/TTT_Logo.png)
 
 <br>
 
