@@ -32,7 +32,7 @@ This flexible and inclusive format enables interdisciplinary participation and p
 
 **costs**: The participation is for free!
 
-**register**: tba <!-- → <a href="https://redcap.kks.uni-marburg.de/surveys/?s=9HXRRT48NNE4LFRW">REGISTER</a> -->
+**register**: <a href="https://redcap.kks.uni-marburg.de/surveys/?s=XPWKTAAW3W7N7KRE">REGISTER</a>
 
 
 The Marburg BrainhackSchool is organized by 
