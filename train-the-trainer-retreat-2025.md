@@ -40,7 +40,7 @@ Then the TTT Retreat could be the ideal place for you!
 | Date | Event | Setting |
 |:---------------|:--------------|:---------------|
 | tba 2h | Kick-Off | Online meeting to discuss the course of the TTT and the necessary preparation for the TTT |
-| 10.11. 10 h – 18 h | TTT Retreat | On-site workshop at the Philipps University Marburg Creative Space  |
+| One Day in November, 10:00 – 18:00 | TTT Retreat | On-site workshop at the Philipps University Marburg Creative Space  |
 
 In the period between the kick-off and the TTT workshop, the participants prepare didactic sessions, which they present at the TTT workshop.
 
