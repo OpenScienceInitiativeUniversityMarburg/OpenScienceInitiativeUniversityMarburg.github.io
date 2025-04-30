@@ -7,6 +7,19 @@ description: Bi-weekly open office hours as well as other various events.
 
 # Upcoming Events - Save the Date!!
 
+## OSIUM Hackathon - BrainhackSchool 2025
+
+
+![BHS-Logo](./assets/images/brainhackSchool.jpg)
+
+<br>
+
+
+**Details** tba, first information on the Marburg BrainhackSchool 2025 can be found <a class="twitter-timeline" href="https://openscienceinitiativeuniversitymarburg.github.io/BrainhackSchool-2025.html" data-tweet-limit="1" data-height="300">here</a>!
+<br>
+
+---
+
 ## One-Day Train the Trainer Retreat 2025
 
 
