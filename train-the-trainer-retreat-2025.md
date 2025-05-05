@@ -15,6 +15,8 @@ Digital skills in research range from basic skills in the use of digital tools a
 
 → **Coding competence / research software engineering**: Knowledge of the use of software and, if necessary, programming, which is necessary for the implementation and automation of data collection, processing and analysis. This also includes the application of computer-aided methods and technologies to solve complex scientific problems.
 
+Imparting this knowledge and skills in university teaching helps to ensure high-quality research and make it sustainable.
+We are therefore organizing a retreat for multipliers who would like to integrate these extremely important topics into their teaching and supervision.
 
 <br>
 
@@ -22,13 +24,14 @@ Digital skills in research range from basic skills in the use of digital tools a
 
 <br>
 
-Imparting this knowledge and skills in university teaching helps to ensure high-quality research and make it sustainable.
-We are therefore organizing a retreat for multipliers who would like to integrate these extremely important topics into their teaching and supervision.
 
 → <a href="https://redcap.kks.uni-marburg.de/surveys/?s=9TWKDAF8KWYPM7CN">REGISTER</a>
 
+**Event Format**
 
-During the One-Day Train the Trainer (TTT) retreat, we will work to expand and optimize our didactic skills for precisely these areas. 
+The One-Day Train the Trainer (TTT) retreat is is conceptualized as a one-day unconference: the participants share their own teaching ideas, receive targeted feedback, and learn from the proven didactic concepts of others.
+
+During the TTT retreat, we will work to expand and optimize our didactic skills for precisely these areas. 
  
 Do you want to offer excellent teaching for sustainable, high-quality research?
 Then the TTT Retreat could be the ideal place for you!
