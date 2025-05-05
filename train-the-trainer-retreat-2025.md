@@ -5,7 +5,7 @@ description: Trainings, Projects, Hackathons, Discussion.
 ---
 
 
-## Train the Trainer Retreat - digital skills in research
+## Train the Trainer Retreat - digital skills in research on 03.11.2025 in Marburg
 
 Digital skills in research range from basic skills in the use of digital tools and platforms to advanced knowledge in specific areas. These skills are needed more than ever, especially in future-oriented areas such as
 
@@ -25,7 +25,7 @@ Digital skills in research range from basic skills in the use of digital tools a
 Imparting this knowledge and skills in university teaching helps to ensure high-quality research and make it sustainable.
 We are therefore organizing a retreat for multipliers who would like to integrate these extremely important topics into their teaching and supervision.
 
-→ <a href="https://redcap.kks.uni-marburg.de/surveys/?s=9HXRRT48NNE4LFRW">REGISTER</a>
+→ <a href="https://redcap.kks.uni-marburg.de/surveys/?s=9TWKDAF8KWYPM7CN">REGISTER</a>
 
 
 During the One-Day Train the Trainer (TTT) retreat, we will work to expand and optimize our didactic skills for precisely these areas. 
@@ -47,7 +47,7 @@ In the period between the kick-off and the TTT workshop, the participants prepar
 
 **costs**: The participation is for free!
 
-→ <a href="https://redcap.kks.uni-marburg.de/surveys/?s=9HXRRT48NNE4LFRW">REGISTER</a>
+→ <a href="https://redcap.kks.uni-marburg.de/surveys/?s=9TWKDAF8KWYPM7CN">REGISTER</a>
 
 
 The TTT Retreat is organized by 
