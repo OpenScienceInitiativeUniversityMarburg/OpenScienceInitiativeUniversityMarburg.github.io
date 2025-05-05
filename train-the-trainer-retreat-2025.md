@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Train-the-Trainer Retreat 2025
-description: Trainings, Projects, Hackathons, Discussion.
+description: Unconference, Peer2Peer Training, Inspiration.
 ---
 
 
