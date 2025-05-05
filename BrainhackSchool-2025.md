@@ -5,7 +5,7 @@ description: Trainings, Projects, Hackathons, Discussion.
 ---
 
 
-## OSIUM Hackathon - BrainhackSchool 2025
+## OSIUM Hackathon - BrainhackSchool 2025 in June 2025 online
 
 The Brainhack School is a collaborative, 4-week long hands-on training program in open neuroscience and data science, redesigned here as a flipped classroom.
 
