@@ -7,7 +7,7 @@ description: Bi-weekly open office hours as well as other various events.
 
 # Upcoming Events - Save the Date!!
 
-## OSIUM Hackathon - BrainhackSchool 2025
+## OSIUM Hackathon - BrainhackSchool 2025 in June 2025 online
 
 
 ![BHS-Logo](./assets/images/brainhackSchool.jpg)
@@ -20,7 +20,7 @@ description: Bi-weekly open office hours as well as other various events.
 
 ---
 
-## One-Day Train the Trainer Retreat 2025
+## One-Day Train the Trainer Retreat 2025 on 3.11.2025 in Marburg
 
 
 ![TTT-Logo](./assets/images/TTT_Logo.png)
