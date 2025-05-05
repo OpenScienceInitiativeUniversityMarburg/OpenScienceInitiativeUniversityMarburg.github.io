@@ -39,15 +39,15 @@ Then the TTT Retreat could be the ideal place for you!
 
 | Date | Event | Setting |
 |:---------------|:--------------|:---------------|
-| tba 2h | Kick-Off | Online meeting to discuss the course of the TTT and the necessary preparation for the TTT |
-| One Day in November, 10:00 – 18:00 | TTT Retreat | On-site workshop at the Philipps University Marburg Creative Space  |
+| October 20 13:00-14:00 | Kick-Off | Online meeting to discuss the course of the TTT and the necessary preparation for the TTT |
+| One Day on November 3, 10:00 – 18:00 | TTT Retreat | On-site workshop at the Philipps University Marburg Creative Space  |
 
 In the period between the kick-off and the TTT workshop, the participants prepare didactic sessions, which they present at the TTT workshop.
 
 
 **costs**: The participation is for free!
 
-**register**: tba <!-- → <a href="https://redcap.kks.uni-marburg.de/surveys/?s=9HXRRT48NNE4LFRW">REGISTER</a> -->
+→ <a href="https://redcap.kks.uni-marburg.de/surveys/?s=9HXRRT48NNE4LFRW">REGISTER</a>
 
 
 The TTT Retreat is organized by 
