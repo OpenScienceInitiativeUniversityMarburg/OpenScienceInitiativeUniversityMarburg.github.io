@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OSIUM Hackathon 2025
-description: Trainings, Projects, Hackathons, Discussion.
+description: Online Training, Hackathon, Open Office Consultation.
 ---
 
 
