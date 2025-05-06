@@ -41,9 +41,8 @@ The Marburg BrainhackSchool is organized by
 
 and supported by
 
-<!-- <img src="./assets/images/mara-logo.jpeg" alt="MARA-Logo" width="300"> -->
+<img src="./assets/images/TAM_Logo_Vector.png" alt="MARA-Logo" width="300">
 
 
 <br>
 <br>
-[back](./)
