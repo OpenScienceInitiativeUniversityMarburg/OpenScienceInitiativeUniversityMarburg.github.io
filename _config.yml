@@ -2,3 +2,5 @@ title: OSIUM
 description: Gaining knowledge is the first step to wisdom. Sharing knowledge is the first the step to humanity. 
 show_downloads: true
 theme: jekyll-theme-cayman
+kramdown:
+  parse_block_html: true
