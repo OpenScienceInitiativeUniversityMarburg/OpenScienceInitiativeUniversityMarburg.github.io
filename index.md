@@ -28,15 +28,16 @@ OSIUM is a is a grassroot initiative on voluntary basis promoting open science a
 OSIUM is happy to collaborate with you on open research practices or specific projects on open research workflows or open science in teaching.
 So if you have questions or ideas or just want to be part of this innovative and collaborative community, come to our next **Open Office Hour**: We meet online every second Monday at 1:00 pm and in person once a quarter for an **Open Science Lab**. Please find all OSIUM activities announced in our [calendar](./calendar-page.md).
 
-# Help Shape OSIUM!
+# Help Us Shape OSIUM!
 
-To better understand the needs of our community, we’d love to learn more about your interests, challenges, and ideas. Please take a moment to answer a few short questions — your input will help us design meaningful workshops, events, and resources that truly reflect your needs.
+To better understand the interests and needs of our community, we’d love to learn more about your interests, challenges, and ideas. Please take a moment to answer a few short questions — your input will help us design meaningful workshops, events, and resources that truly reflect your needs.
 
 <form action="https://formspree.io/f/mpwdndkb" method="POST">
-  <h2>Open Science Survey</h2>
+  <input type="hidden" name="_redirect" value="https://OpenScienceInitiativeUniversityMarburg.github.io/thank-you.html">
+  <h2>OSIUM Survey</h2>
 
   <label>
-    1. Which areas of open science interest you most?
+    1. Which areas of Open Science interest you most?
     <br>
     <textarea name="areas_of_interest" rows="4" cols="80"></textarea>
   </label>
@@ -70,7 +71,6 @@ To better understand the needs of our community, we’d love to learn more about
   <label>
     5. Would you be interested in helping organize events?
     <br>
-    <select name="interest_in_volunteering">
       <input type="checkbox" name="interest_in_volunteering" value="Yes"> Yes<br>
       <input type="checkbox" name="interest_in_volunteering" value="No"> No<br>
       <input type="checkbox" name="interest_in_volunteering" value="Maybe"> Maybe<br>
