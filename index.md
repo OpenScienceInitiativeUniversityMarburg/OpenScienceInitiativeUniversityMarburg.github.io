@@ -74,7 +74,7 @@ To better understand the interests and needs of our community, we’d love to le
     <textarea name="other_comments" rows="3" cols="80"></textarea>
   </label>
 
-  <button type="submit">Submit Survey</button>
+  <button type="submit">Submit</button>
 </form>
 
 
