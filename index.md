@@ -55,7 +55,7 @@ To better understand the interests and needs of our community, we’d love to le
   </label>
 
   <label>
-    4. What barriers or challenges do you face with open science?
+    4. What barriers or challenges do you face with Open Science?
     <br>
     <textarea name="barriers_to_open_science" rows="4" cols="80"></textarea>
   </label>
