@@ -74,7 +74,6 @@ To better understand the interests and needs of our community, we’d love to le
       <input type="checkbox" name="interest_in_volunteering" value="Yes"> Yes<br>
       <input type="checkbox" name="interest_in_volunteering" value="No"> No<br>
       <input type="checkbox" name="interest_in_volunteering" value="Maybe"> Maybe<br>
-    </select>
   </label>
 
   <br><br>
