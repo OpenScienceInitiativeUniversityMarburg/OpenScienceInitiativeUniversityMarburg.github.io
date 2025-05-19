@@ -33,7 +33,7 @@ So if you have questions or ideas or just want to be part of this innovative and
 To better understand the interests and needs of our community, we’d love to learn more about your interests, challenges, and ideas. Please take a moment to answer a few short questions — your input will help us design meaningful workshops, events, and resources that truly reflect your needs.
 
 <form action="https://formspree.io/f/mpwdndkb" method="POST">
-  <input type="hidden" name="_redirect" value="https://OpenScienceInitiativeUniversityMarburg.github.io/thank-you.md">
+  <input type="hidden" name="_redirect" value="https://OpenScienceInitiativeUniversityMarburg.github.io/thank-you/">
   <h2>OSIUM Survey</h2>
 
   <label>
