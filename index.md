@@ -28,6 +28,69 @@ OSIUM is a is a grassroot initiative on voluntary basis promoting open science a
 OSIUM is happy to collaborate with you on open research practices or specific projects on open research workflows or open science in teaching.
 So if you have questions or ideas or just want to be part of this innovative and collaborative community, come to our next **Open Office Hour**: We meet online every second Monday at 1:00 pm and in person once a quarter for an **Open Science Lab**. Please find all OSIUM activities announced in our [calendar](./calendar-page.md).
 
+# Help Shape OSIUM!
+
+To better understand the needs of our community, we’d love to learn more about your interests, challenges, and ideas. Please take a moment to answer a few short questions — your input will help us design meaningful workshops, events, and resources that truly reflect your needs.
+
+<form action="https://formspree.io/f/mpwdndkb" method="POST">
+  <h2>Open Science Survey</h2>
+
+  <label>
+    1. Which areas of open science interest you most?
+    <br>
+    <textarea name="areas_of_interest" rows="4" cols="40"></textarea>
+  </label>
+
+  <br><br>
+
+  <label>
+    2. What types of activities would you be most interested in?
+    <br>
+    <textarea name="activities_of_interest" rows="4" cols="40"></textarea>
+  </label>
+
+  <br><br>
+
+  <label>
+    3. What topics or tools would you like to learn more about?
+    <br>
+    <textarea name="topics_of_interest" rows="4" cols="40"></textarea>
+  </label>
+
+  <br><br>
+
+  <label>
+    4. What barriers or challenges do you face with open science?
+    <br>
+    <textarea name="barriers_to_open_science" rows="4" cols="40"></textarea>
+  </label>
+
+  <br><br>
+
+  <label>
+    5. Would you be interested in helping organize events?
+    <br>
+    <select name="interest_in_volunteering">
+      <option value="Yes">Yes</option>
+      <option value="Maybe">Maybe, tell me more</option>
+      <option value="No">No</option>
+    </select>
+  </label>
+
+  <br><br>
+
+  <label>
+    6. Any other comments or suggestions?
+    <br>
+    <textarea name="other_comments" rows="3" cols="40"></textarea>
+  </label>
+
+  <br><br>
+
+  <button type="submit">Submit Survey</button>
+</form>
+
+
 ---
 
 # [JOIN OUR TEAM!](./join.md)
