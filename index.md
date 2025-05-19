@@ -38,7 +38,7 @@ To better understand the needs of our community, we’d love to learn more about
   <label>
     1. Which areas of open science interest you most?
     <br>
-    <textarea name="areas_of_interest" rows="4" cols="40"></textarea>
+    <textarea name="areas_of_interest" rows="4" cols="60"></textarea>
   </label>
 
   <br><br>
@@ -46,7 +46,7 @@ To better understand the needs of our community, we’d love to learn more about
   <label>
     2. What types of activities would you be most interested in?
     <br>
-    <textarea name="activities_of_interest" rows="4" cols="40"></textarea>
+    <textarea name="activities_of_interest" rows="4" cols="60"></textarea>
   </label>
 
   <br><br>
@@ -54,7 +54,7 @@ To better understand the needs of our community, we’d love to learn more about
   <label>
     3. What topics or tools would you like to learn more about?
     <br>
-    <textarea name="topics_of_interest" rows="4" cols="40"></textarea>
+    <textarea name="topics_of_interest" rows="4" cols="60"></textarea>
   </label>
 
   <br><br>
@@ -62,7 +62,7 @@ To better understand the needs of our community, we’d love to learn more about
   <label>
     4. What barriers or challenges do you face with open science?
     <br>
-    <textarea name="barriers_to_open_science" rows="4" cols="40"></textarea>
+    <textarea name="barriers_to_open_science" rows="4" cols="60"></textarea>
   </label>
 
   <br><br>
@@ -71,9 +71,9 @@ To better understand the needs of our community, we’d love to learn more about
     5. Would you be interested in helping organize events?
     <br>
     <select name="interest_in_volunteering">
-      <option value="Yes">Yes</option>
-      <option value="Maybe">Maybe, tell me more</option>
-      <option value="No">No</option>
+      <input type="checkbox" name="interest_in_volunteering" value="Yes"> Yes<br>
+      <input type="checkbox" name="interest_in_volunteering" value="No"> No<br>
+      <input type="checkbox" name="interest_in_volunteering" value="Maybe"> Mabye<br>
     </select>
   </label>
 
@@ -82,7 +82,7 @@ To better understand the needs of our community, we’d love to learn more about
   <label>
     6. Any other comments or suggestions?
     <br>
-    <textarea name="other_comments" rows="3" cols="40"></textarea>
+    <textarea name="other_comments" rows="3" cols="60"></textarea>
   </label>
 
   <br><br>
