@@ -66,7 +66,7 @@ To better understand the interests and needs of our community, we’d love to le
     <textarea name="other_comments" rows="3" cols="80"></textarea>
   </label>
 
-  Interested in helping organize events? Feel free to contact us at any time: <a href="mailto:osium.contact@gmail.com">contact</a>
+  Interested in helping organize events? Reach out to <a href="mailto:osium.contact@gmail.com">us</a>!
   
   <button type="submit">Submit</button>
 </form>
