@@ -43,6 +43,9 @@ and supported by
 
 <img src="./assets/images/TAM_Logo_Vector.png" alt="MARA-Logo" width="300">
 
+and 
+
+<img src="./assets/images/eResearch-logo.png" alt="MARA-Logo" width="300">
 
 <br>
 <br>
