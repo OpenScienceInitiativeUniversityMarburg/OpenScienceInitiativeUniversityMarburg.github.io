@@ -59,21 +59,15 @@ To better understand the interests and needs of our community, we’d love to le
     <br>
     <textarea name="barriers_to_open_science" rows="4" cols="80"></textarea>
   </label>
-
+  
   <label>
-    5. Would you be interested in helping organize events?
-    <br>
-      <input type="checkbox" name="interest_in_volunteering" value="Yes"> Yes<br>
-      <input type="checkbox" name="interest_in_volunteering" value="No"> No<br>
-      <input type="checkbox" name="interest_in_volunteering" value="Maybe"> Maybe<br>
-  </label>
-
-  <label>
-    6. Any other comments or suggestions?
+    5. Any other comments or suggestions?
     <br>
     <textarea name="other_comments" rows="3" cols="80"></textarea>
   </label>
 
+  Interested in helping organize events? Feel free to contact us at any time: <a href="mailto:osium.contact@gmail.com">contact</a>
+  
   <button type="submit">Submit</button>
 </form>
 
