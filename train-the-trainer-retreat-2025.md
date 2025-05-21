@@ -5,7 +5,7 @@ description: Unconference, Peer2Peer Training, Inspiration.
 ---
 
 
-# Train the Trainer Retreat - Dgitial Skills & Open Science in Higher Education on 03.11.2025 in Marburg
+# Train the Trainer Retreat - Digital Skills & Open Science in Higher Education on 03.11.2025 in Marburg
 
 Digital skills in research range from basic skills in the use of digital tools and platforms to advanced knowledge in specific areas. These skills are needed more than ever, especially in future-oriented areas such as
 
@@ -60,6 +60,10 @@ The TTT Retreat is organized by
 and supported by
 
 <img src="./assets/images/mara-logo.jpeg" alt="MARA-Logo" width="300">
+
+and
+
+<img src="./assets/images/eResearch-logo.png" alt="MARA-Logo" width="300">
 
 
 <br>
