@@ -50,7 +50,7 @@ Then the TTT Retreat could be the ideal place for you!
 | Date | Event | Setting |
 |:---------------|:--------------|:---------------|
 | October 20 13:00-14:00 | Kick-Off | Online meeting to discuss the course of the TTT and the necessary preparation for the TTT |
-| November 3, 10:00 – 18:00 | TTT Retreat | On-site workshop in Creative Space Marburg, "Club Behring" (Room +1/0020), 1. OG  Bahnhofstraße 7, 35037 Marburg |
+| November 3, 10:00 – 17:00 | TTT Retreat | On-site workshop in Creative Space Marburg, "Club Behring" (Room +1/0020), 1. OG  Bahnhofstraße 7, 35037 Marburg |
 
 In the period between the kick-off and the TTT workshop, the participants prepare didactic sessions, which they present at the TTT workshop.
 
