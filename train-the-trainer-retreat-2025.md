@@ -27,13 +27,20 @@ We are therefore organizing a retreat for multipliers who would like to integrat
 
 → <a href="https://redcap.kks.uni-marburg.de/surveys/?s=9TWKDAF8KWYPM7CN">REGISTER</a>
 
-**Event Format**
+**Event Format & Methods**
 
-The One-Day Train the Trainer (TTT) retreat is is conceptualized as a one-day unconference: the participants share their own teaching ideas, receive targeted feedback, and learn from the proven didactic concepts of others.
+
+The One-Day Train the Trainer (TTT) retreat follows the successfully proven Train-the-Trainer format of the <a href="https://digital-research.academy/">Digital Research Academy</a>.
+The goals are:
+1. Give you the time and space to learn about good, evidence-based teaching,
+2. Provide you with a community of like-minded peers,
+3. Strengthening the integration of Open Science methods in your teaching.
+
+The TTT retreat is is conceptualized as a one-day unconference: the participants share their own teaching ideas, receive targeted feedback, and learn from the proven didactic concepts of others.
 
 During the TTT retreat, we will work to expand and optimize our didactic skills for precisely these areas. 
  
-Do you want to offer excellent teaching for sustainable, high-quality research?
+Do you want to offer excellent teaching for transparent, sustainable, high-quality research?
 Then the TTT Retreat could be the ideal place for you!
 
 
