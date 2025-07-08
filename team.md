@@ -48,6 +48,7 @@ _This list is not yet complete and will be continuously updated._
 * Prof. Dr. Dominik Endres
 * Prof. Dr. Andreas Jansen
 * Prof. Dr. Daniel Heck
+* Prof. Dr. Andreas Mayr
 
 
 ---
