@@ -41,7 +41,7 @@ If you would like to show your support for the Open Science Initiative Universit
 ---
 # Join Our Upcoming Events
 
-Whether you have just questions getting started, ideas, feedback or you want to become an active OSIUM member, please feel free to join our biweekly <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join">Open Office Hour</a>.
+Whether you have just questions getting started, ideas, feedback or you want to become an active OSIUM member, please feel free to join our monthly <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join">Open Office Hour</a>.
 
 Beyond the Open Office Hours, we organize regularly community events like peer2peer workshops, hackathons or retreats.
 For more information, please click on the event in the embedded calendar:
