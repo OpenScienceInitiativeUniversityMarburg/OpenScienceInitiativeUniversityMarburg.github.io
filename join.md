@@ -16,9 +16,16 @@ By becoming an active member, you join a community committed to making research 
 
 # Who Can Take Part in the OSIUM Community?
 
-Every researcher and non-researcher from the Philipps-University Marburg and beyond can attend and participate in our events, no matter from which domain or at which career level.  Membership is open and free of charge. No small print. 
+Every researcher and non-researcher from the Philipps-University Marburg and beyond can attend and participate in our events, no matter from which domain or at which career level. Everyone can me an active member - if Open Science newbee or data science professional. Membership is open and free of charge. No small print. 
 
 # How to Become an Official Member of OSIUM?
+
+# What Do We Expect from official OSIUM Members?
+
+Nothing, except enthusiasm for the idea of Open Science. We encourage you to step in and take a look! Over time, you'll surely find a way to contribute. We appreciate contribution of all kinds - e.g.,
+* promoting the idea of Open Science at you department
+* giving feedback on our website, material and/or events
+* or maybe yourself organize with us one of our peer2peer events...
 
 To become an OSIUM member, just join the group on <a href="https://discord.gg/KDR6Xc3aRg">discord</a>! This is our main communication platform. If something doesn't work, please don't hesitate to drop us a <a href="mailto:osium.contact@gmail.com">mail</a>.
 ! Please note further information about our team communication in the corresponding discord channel descriptions !
