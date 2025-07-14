@@ -2,7 +2,7 @@
 layout: default
 ---
 # Past Events
-- <a class="twitter-timeline" href="https://openscienceinitiativeuniversitymarburg.github.io/BrainhackSchool-2025.html" data-tweet-limit="1" data-height="300">Brainhack School 2025</a>!
+- <a class="twitter-timeline" href="https://openscienceinitiativeuniversitymarburg.github.io/BrainhackSchool-2025.html" data-tweet-limit="1" data-height="300">Brainhack School 2025</a>
 - <a class="twitter-timeline" href="https://openscienceinitiativeuniversitymarburg.github.io/open-science-days-2024.html" data-tweet-limit="1" data-height="300">Open Science Days 2024</a>
 - <a class="twitter-timeline" href="https://openscienceinitiativeuniversitymarburg.github.io/train-the-trainer-retreat-2024.html" data-tweet-limit="1" data-height="300">Train-the-Trainer Retreat 2024</a>
 - Brainhack School 2024
