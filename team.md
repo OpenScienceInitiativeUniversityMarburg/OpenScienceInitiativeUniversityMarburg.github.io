@@ -55,10 +55,10 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
       <h3><a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a></h3>
       <img src="./assets/images/Lydia_Riedl.png" width="150" alt="Lydia Riedl" style="border-radius: 8px; margin-bottom: 10px;">
       <p style="text-align: center;">
-        <strong>Linguist and Neuroscientist</strong><br>
+        Linguist and Neuroscientist<br>
         Promoting Open Science in Marburg (and beyond) as:
       </p>
-      <ul style="list-style-position: inside; text-align: left; margin: 0 auto; width: 80%;">
+      <ul style="list-style-position: inside; text-align: left; margin: 0 auto; width: 100%;">
         <li>Open Science Officer of Philipps-Universität Marburg</li>
         <li>Repository Manager and Open Repositories Group Lead</li>
         <li>Member of the Marburg eResearch Center</li>
