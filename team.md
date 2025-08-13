@@ -49,6 +49,37 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
   </tr>
 </table>
 
+<table align="center" style="width: 60%; table-layout: fixed; margin-bottom: 40px;">
+  <tr>
+    <td align="center" style="vertical-align: top; padding: 10px;">
+      <h3><a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a></h3>
+      <img src="./assets/images/Lydia_Riedl.png" width="150" alt="Lydia Riedl" style="border-radius: 8px; margin-bottom: 10px;">
+      <p><strong>Linguist and Neuroscientist.</strong></p>
+      <p>Promoting Open Science in Marburg (and beyond) as:</p>
+      <ul style="text-align: left; max-width: 400px; margin: 0 auto;">
+        <li>The Open Science Officer of Philipps-Universität Marburg</li>
+        <li>Repository Manager and Open Repositories Group Lead</li>
+        <li>Member of the Marburg eResearch Center</li>
+        <li>Steering board member of the German Reproducibility Network</li>
+        <li>Proud board member of OSIUM</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table align="center" style="width: 70%; table-layout: fixed; margin-bottom: 40px;">
+  <tr>
+    <td align="center" style="vertical-align: top; padding: 10px;">
+      <h3><a href="https://de.linkedin.com/in/bj%C3%B6rn-siepe-11a750219">Björn Siepe</a></h3>
+      <img src="./assets/images/Bjoern_Siepe.jpg" width="150" alt="Björn Siepe" style="border-radius: 8px; margin-bottom: 10px;">
+      <p style="text-align: center;">
+        Doctoral Student in the Psychological Methods Lab, Department of Psychology
+        My work focuses on developing and evaluating statistical methods for time series analysis in psychology,  time series analysis in clinical applications, and meta research on robust methodological research.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 # Supporter List
 _This list is not yet complete and will be continuously updated._
