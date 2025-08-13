@@ -23,24 +23,8 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
 
 <a href="https://www.linkedin.com/in/niau/">Nick Augustat</a>, <a href="https://www.researchgate.net/profile/Monica-Berdugo-Moreno">Monica B. Berdugo</a>, <a href="https://www.uni-marburg.de/de/universitaet/lehre/zukunftswerkstatt/das-team/sophia-hercher">Sophia Hercher</a>, <a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a>, <a href="https://de.linkedin.com/in/bj%C3%B6rn-siepe-11a750219">Björn Siepe</a>, <a href="https://orcid.org/0000-0002-0949-2000">Franziska Usée</a>
 
-<div style="margin-bottom: 20px;">
-
-  <div style="display: inline-block; vertical-align: top; width: 160px; text-align: center;">
-    <img src="./assets/images/Nick_Augustat.png" alt="Nick Augustat" width="150" style="border-radius: 8px;">
-    <br>
-    <a href="https://www.linkedin.com/in/niau/" style="font-weight: bold; font-size: 1.1em; text-decoration: none;">Nick Augustat</a>
-  </div>
-
-  <div style="display: inline-block; vertical-align: top; width: calc(100% - 180px); padding-left: 20px;">
-    <p style="font-size: 0.9em; margin-top: 0;">
-      Doctoral Researcher, Fachbereich Psychologie, AE Theoretische Kognitionswissenschaft.<br>
-      Data Steward, HRZ, Abteilung Anwendungen, Arbeitsgruppe Forschungsnahe Anwendungen.<br>
-      Interested in computational modelling of reinforcement learning and helping researchers access advanced computing infrastructure.<br>
-      Feel free to drop me a mail!
-    </p>
-  </div>
-
-</div>
+| <img src="./assets/images/Nick_Augustat.png" alt="Nick Augustat" width="150" style="border-radius: 8px;"> | <a href="https://www.linkedin.com/in/niau/" style="font-weight: bold; font-size: 1.1em;">Nick Augustat</a><br><br>Doctoral Researcher, Fachbereich Psychologie, AE Theoretische Kognitionswissenschaft.<br>Data Steward, HRZ, Abteilung Anwendungen, Arbeitsgruppe Forschungsnahe Anwendungen.<br>Interested in computational modelling of reinforcement learning and helping researchers access advanced computing infrastructure.<br>Feel free to drop me a mail! |
+| --- | --- |
 
 
 # Supporter List
