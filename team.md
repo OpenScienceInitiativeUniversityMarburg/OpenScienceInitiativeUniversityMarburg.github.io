@@ -23,12 +23,18 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
 
 <a href="https://www.linkedin.com/in/niau/">Nick Augustat</a>, <a href="https://www.researchgate.net/profile/Monica-Berdugo-Moreno">Monica B. Berdugo</a>, <a href="https://www.uni-marburg.de/de/universitaet/lehre/zukunftswerkstatt/das-team/sophia-hercher">Sophia Hercher</a>, <a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a>, <a href="https://de.linkedin.com/in/bj%C3%B6rn-siepe-11a750219">Björn Siepe</a>, <a href="https://orcid.org/0000-0002-0949-2000">Franziska Usée</a>
 
-<p>
-  <img src="./assets/images/Nick_Augustat.png" alt="Nick Augustat" width="100" style="float: left; margin-right: 10px; border-radius: 8px;">
-  <strong><a href="https://www.linkedin.com/in/niau/">Nick Augustat</a></strong><br>
-  Doctoral Researcher, Fachbereich Psychologie, AE Theoretische Kognitionswissenschaft.<br>
-  Data Steward, HRZ, Abteilung Anwendungen... Feel free to drop me a mail!
-</p>
+### [Nick Augustat](https://www.linkedin.com/in/niau/)
+
+<img src="./assets/images/Nick_Augustat.png" width="150" alt="Nick Augustat" style="border-radius: 8px;">
+
+Doctoral Researcher, Fachbereich Psychologie, AE Theoretische Kognitionswissenschaft.<br>
+Data Steward, HRZ, Abteilung Anwendungen... Feel free to drop me a mail!
+
+### [Monica B. Berdugo](https://www.researchgate.net/profile/Monica-Berdugo-Moreno)
+
+<img src="./assets/images/Monica_Berdugo.JPG" width="150" alt="Monica B. Berdugo" style="border-radius: 8px;">
+
+Ecologist studying ecosystem processes, plant communities, and environmental drivers...
 
 # Supporter List
 _This list is not yet complete and will be continuously updated._
