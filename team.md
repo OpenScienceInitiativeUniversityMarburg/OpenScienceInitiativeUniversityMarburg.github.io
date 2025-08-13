@@ -23,26 +23,26 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
 
 <a href="https://www.linkedin.com/in/niau/">Nick Augustat</a>, <a href="https://www.researchgate.net/profile/Monica-Berdugo-Moreno">Monica B. Berdugo</a>, <a href="https://www.uni-marburg.de/de/universitaet/lehre/zukunftswerkstatt/das-team/sophia-hercher">Sophia Hercher</a>, <a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a>, <a href="https://de.linkedin.com/in/bj%C3%B6rn-siepe-11a750219">Björn Siepe</a>, <a href="https://orcid.org/0000-0002-0949-2000">Franziska Usée</a>
 
-<table align="center" style="width: 60%; table-layout: fixed; margin-bottom: 40px;">
+<table align="center" style="width: 70%; table-layout: fixed; margin-bottom: 40px;">
   <tr>
     <td align="center" style="vertical-align: top; padding: 10px;">
       <h3><a href="https://www.linkedin.com/in/niau/">Nick Augustat</a></h3>
-      <img src="./assets/images/Nick_Augustat.png" width="150" alt="Nick Augustat" style="border-radius: 8px; margin-bottom: 10px;">
-      <p style="text-align: left;">
-        Doctoral Researcher, Fachbereich Psychologie, AE Theoretische Kognitionswissenschaft.<br>
-        Data Steward, HRZ, Abteilung Anwendungen, Arbeitsgruppe Forschungsnahe Anwendungen.<br>
+      <img src="./assets/images/Nick_Augustat.png" width="200" alt="Nick Augustat" style="border-radius: 8px; margin-bottom: 10px;">
+      <p style="text-align: center;">
+        Doctoral Researcher, Fachbereich Psychologie, AE Theoretische Kognitionswissenschaft<br>
+        Data Steward, HRZ, Abteilung Anwendungen, Arbeitsgruppe Forschungsnahe Anwendungen<br>
         I'm interested in computational modelling of reinforcement learning, and I help researchers get access to advanced computing infrastructure. Feel free to drop me a mail!
       </p>
     </td>
   </tr>
 </table>
 
-<table align="center" style="width: 60%; table-layout: fixed; margin-bottom: 40px;">
+<table align="center" style="width: 70%; table-layout: fixed; margin-bottom: 40px;">
   <tr>
     <td align="center" style="vertical-align: top; padding: 10px;">
       <h3><a href="https://www.researchgate.net/profile/Monica-Berdugo-Moreno">Monica B. Berdugo</a></h3>
       <img src="./assets/images/Monica_Berdugo.JPG" width="150" alt="Monica B. Berdugo" style="border-radius: 8px; margin-bottom: 10px;">
-      <p style="text-align: left;">
+      <p style="text-align: center;">
         I am an ecologist. My ultimate research goal is to understand how ecosystem processes, plant communities, and selected plant species respond to environmental drivers to assess the potential impacts of environmental change on the functioning of future ecosystems. By addressing ecosystem processes, such as forest regeneration, plant adaptation, and water, nutrient, and carbon cycling, I seek to disentangle the contributions of plant–plant interactions and environmental filtering on community assemblage and plant performance. Currently, I am based at the Biology Department (FB17) of Marburg University targeting two forest tree species that are structurally crucial to European forests. As a member of the BMBF-funded EpiSOMA project, I test whether within-tree microenvironmental gradients affect methylation patterns and gene expression diversity in Fagus sylvatica, the European beech. As a member of the DFG-funded Phytoakmeter Research Unit, I study the epigenetic changes and mobile transposable elements in response to stress and micro- and macroclimatic gradients by monitoring the progeny of an oak clone planted across an European environmental transect.
       </p>
     </td>
