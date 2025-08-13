@@ -27,28 +27,18 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
   <tr>
     <td align="center" style="width: 50%; vertical-align: top; padding: 10px;">
       <h3><a href="https://www.linkedin.com/in/niau/">Nick Augustat</a></h3>
-      <img src="./assets/images/Nick_Augustat.png" width="200" alt="Nick Augustat" style="border-radius: 8px; margin-bottom: 10px;">
-      <p style="max-width: 300px; margin: auto;">
-        Doctoral Researcher, Fachbereich Psychologie, AE Theoretische Kognitionswissenschaft
-        Data Steward, HRZ, Abteilung Anwendungen, Arbeitsgruppe Forschungsnahe Anwendungen
-        I'm interested in computational modelling of reinforcement learning, and I help researchers get access to advanced computing 
-        infrastucture. Feel free to drop me a mail!
+      <img src="./assets/images/Nick_Augustat.png" width="150" alt="Nick Augustat" style="border-radius: 8px; margin-bottom: 10px;">
+      <p style="text-align: left;">
+        Doctoral Researcher, Fachbereich Psychologie, AE Theoretische Kognitionswissenschaft.<br>
+        Data Steward, HRZ, Abteilung Anwendungen, Arbeitsgruppe Forschungsnahe Anwendungen.<br>
+        I'm interested in computational modelling of reinforcement learning, and I help researchers get access to advanced computing infrastructure. Feel free to drop me a mail!
       </p>
     </td>
     <td align="center" style="width: 50%; vertical-align: top; padding: 10px;">
       <h3><a href="https://www.researchgate.net/profile/Monica-Berdugo-Moreno">Monica B. Berdugo</a></h3>
       <img src="./assets/images/Monica_Berdugo.JPG" width="150" alt="Monica B. Berdugo" style="border-radius: 8px; margin-bottom: 10px;">
-      <p style="max-width: 300px; margin: auto;">
-        I am an ecologist. My ultimate research goal is to understand how ecosystem processes, plant communities, and selected plant     
-        species respond to environmental drivers to assess the potential impacts of environmental change on the functioning of future 
-        ecosystems. By addressing ecosystem processes, such as forest regeneration, plant adaptation, and water, nutrient, and carbon 
-        cycling, I seek to disentangle the contributions of plant–plant interactions and environmental filtering on community assemblage 
-        and plant performance. Currently, I am based at the Biology Department (FB17) of Marburg University targeting two forest tree 
-        species that are structurally crucial to European forests. As a member of the BMBF-funded EpiSOMA project, I test whether within-
-        tree microenvironmental gradients affect methylation patterns and gene expression diversity in Fagus sylvatica, the European 
-        beech. As a member of the DFG-funded Phytoakmeter Research Unit, I study the epigenetic changes and mobile transposable elements 
-        in response to stress and micro- and macroclimatic gradients by monitoring the progeny of an oak clone planted across an European 
-        environmental  transect.
+      <p style="text-align: left;">
+        I am an ecologist. My ultimate research goal is to understand how ecosystem processes, plant communities, and selected plant species respond to environmental drivers to assess the potential impacts of environmental change on the functioning of future ecosystems. By addressing ecosystem processes, such as forest regeneration, plant adaptation, and water, nutrient, and carbon cycling, I seek to disentangle the contributions of plant–plant interactions and environmental filtering on community assemblage and plant performance. Currently, I am based at the Biology Department (FB17) of Marburg University targeting two forest tree species that are structurally crucial to European forests. As a member of the BMBF-funded EpiSOMA project, I test whether within-tree microenvironmental gradients affect methylation patterns and gene expression diversity in Fagus sylvatica, the European beech. As a member of the DFG-funded Phytoakmeter Research Unit, I study the epigenetic changes and mobile transposable elements in response to stress and micro- and macroclimatic gradients by monitoring the progeny of an oak clone planted across an European environmental transect.
       </p>
     </td>
   </tr>
