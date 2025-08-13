@@ -19,9 +19,14 @@ For detailed information about the ongoing OSIUM events, please check our [calen
 
 # Current Board Members 
 
-Neuroscientists, biologists, psychologists, physicists, computer scientists, linguists and media scientists have come together to promote Open Science at Marburg University for the benefit of all sciences. We are always looking for new Open Science enthusiasts to join the team!
+Neuroscientists, biologists, psychologists, physicists, computer scientists, linguists, and media scientists have come together to promote Open Science at Marburg University for the benefit of all sciences. We are always looking for new Open Science enthusiasts to join the team!
 
 <a href="https://www.linkedin.com/in/niau/">Nick Augustat</a>, <a href="https://www.researchgate.net/profile/Monica-Berdugo-Moreno">Monica B. Berdugo</a>, <a href="https://www.uni-marburg.de/de/universitaet/lehre/zukunftswerkstatt/das-team/sophia-hercher">Sophia Hercher</a>, <a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a>, <a href="https://de.linkedin.com/in/bj%C3%B6rn-siepe-11a750219">Björn Siepe</a>, <a href="https://orcid.org/0000-0002-0949-2000">Franziska Usée</a>
+
+| [**Nick Augustat**](https://www.linkedin.com/in/niau/) <br> ![Nick](./assets/images/Nick_Augustat.png) <br> Doctoral Researcher, Fachbereich Psychologie, AE Theoretische Kognitionswissenschaft <br> Data Steward, HRZ, Abteilung Anwendungen, Arbeitsgruppe Forschungsnahe Anwendungen <br> I'm interested in computational modelling of reinforcement learning, and I help researchers get access to advanced computing infrastucture. <br> Feel free to drop me a mail!
+
+| [**Monica B. Berdugo**](https://www.researchgate.net/profile/Monica-Berdugo-Moreno) <br> ![Monica](./assets/images/Monica_Berdugo.JPG) <br> I am an ecologist. My ultimate research goal is to understand how ecosystem processes, plant communities, and selected plant species respond to environmental drivers to assess the potential impacts of environmental change on the functioning of future ecosystems. By addressing ecosystem processes, such as forest regeneration, plant adaptation, and water, nutrient, and carbon cycling, I seek to disentangle the contributions of plant–plant interactions and environmental filtering on community assemblage and plant performance. Currently, I am based at the Biology Department (FB17) of Marburg University targeting two forest tree species that are structurally crucial to European forests. As a member of the BMBF-funded EpiSOMA project, I test whether within-tree microenvironmental gradients affect methylation patterns and gene expression diversity in Fagus sylvatica, the European beech. As a member of the DFG-funded Phytoakmeter Research Unit, I study the epigenetic changes and mobile transposable elements in response to stress and micro- and macroclimatic gradients by monitoring the progeny of an oak clone planted across an European environmental  transect. |
+|---|---|
 
 # Supporter List
 _This list is not yet complete and will be continuously updated._
