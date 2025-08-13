@@ -23,8 +23,22 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
 
 <a href="https://www.linkedin.com/in/niau/">Nick Augustat</a>, <a href="https://www.researchgate.net/profile/Monica-Berdugo-Moreno">Monica B. Berdugo</a>, <a href="https://www.uni-marburg.de/de/universitaet/lehre/zukunftswerkstatt/das-team/sophia-hercher">Sophia Hercher</a>, <a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a>, <a href="https://de.linkedin.com/in/bj%C3%B6rn-siepe-11a750219">Björn Siepe</a>, <a href="https://orcid.org/0000-0002-0949-2000">Franziska Usée</a>
 
-| [**Nick Augustat**](https://www.linkedin.com/in/niau/)<br><img src="./assets/images/Nick_Augustat.png" width="180" alt="Nick Augustat"><br>Doctoral Researcher, Fachbereich Psychologie, AE Theoretische Kognitionswissenschaft<br>Data Steward, HRZ, Abteilung Anwendungen, Arbeitsgruppe Forschungsnahe Anwendungen<br>I'm interested in computational modelling of reinforcement learning, and I help researchers get access to advanced computing infrastructure.<br>Feel free to drop me a mail! | [**Monica B. Berdugo**](https://www.researchgate.net/profile/Monica-Berdugo-Moreno)<br><img src="./assets/images/Monica_Berdugo.JPG" width="180" alt="Monica B. Berdugo"><br>I am an ecologist. My research goal is to understand how ecosystem processes, plant communities, and selected plant species respond to environmental drivers to assess potential impacts of environmental change.<br>Currently, I’m based at the Biology Department (FB17) of Marburg University targeting two forest tree species.<br>Member of BMBF-funded EpiSOMA project and DFG-funded Phytoakmeter Research Unit. |
-|---|---|
+### [Nick Augustat](https://www.linkedin.com/in/niau/)
+
+<img src="./assets/images/Nick_Augustat.png" width="150" alt="Nick Augustat" style="border-radius: 8px; margin-top: 8px;">
+
+Doctoral Researcher, Fachbereich Psychologie, AE Theoretische Kognitionswissenschaft... Feel free to drop me a mail!
+
+---
+
+### [Monica B. Berdugo](https://www.researchgate.net/profile/Monica-Berdugo-Moreno)
+
+<img src="./assets/images/Monica_Berdugo.JPG" width="150" alt="Monica B. Berdugo" style="border-radius: 8px; margin-top: 8px;">
+
+Ecologist studying ecosystem processes, plant communities, and environmental drivers...
+
+---
+
 
 # Supporter List
 _This list is not yet complete and will be continuously updated._
