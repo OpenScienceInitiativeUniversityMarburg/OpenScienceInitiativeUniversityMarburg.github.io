@@ -58,7 +58,7 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
         <strong>Linguist and Neuroscientist</strong><br>
         Promoting Open Science in Marburg (and beyond) as:
       </p>
-      <ul style="display: inline-block; text-align: left; margin: 0 auto; padding-left: 20px;">
+      <ul style="list-style-position: inside; text-align: left; margin: 0 auto; width: 80%;">
         <li>Open Science Officer of Philipps-Universität Marburg</li>
         <li>Repository Manager and Open Repositories Group Lead</li>
         <li>Member of the Marburg eResearch Center</li>
@@ -68,7 +68,6 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
     </td>
   </tr>
 </table>
-
 <table align="center" style="width: 70%; table-layout: fixed; margin-bottom: 40px;">
   <tr>
     <td align="center" style="vertical-align: top; padding: 10px;">
