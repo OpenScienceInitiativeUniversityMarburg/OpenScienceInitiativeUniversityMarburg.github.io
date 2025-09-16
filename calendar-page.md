@@ -26,16 +26,11 @@ description: Bi-weekly open office hours as well as other various events.
 ## Monthly Open Office Hour
 We offer <a href="https://webconf.hrz.uni-marburg.de/n/rooms/q2o-bf3-vtf-u8q/join">office hours</a> where you can join the online meeting and ask your questions on Open Science (every first Monday in the month 13:00 o'clock). 
 
-## MARA Open Science Program
-As MARA Working group, we also offer trainings and peer-to-peer workshops in the <a href="https://www.uni-marburg.de/de/mara/veranstaltungen/programme-und-zertifikate/open-science">MARA Open Science Program</a>
-
 ## Hackathons & Retreats
-We organize community events formats, such as peer2peer workshops, hackathons and retreats: [Past Events](./past-events.md). E.g., at the end of each year we traditionally organize a 2-3 day Winter School (formerly "Brainhack", now "Open Science Days").
+We organize community events formats, such as peer2peer workshops, hackathons and retreats: [Past Events](./past-events.md).
 
 ---
 # OSIUM Calendar
-
-For more information, please click on the event in the embedded calendar:
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;hl=en&amp;src=osium.contact%40gmail.com&amp;ctz=Europe%2FBerlin" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
