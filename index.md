@@ -6,27 +6,15 @@ description: Building a community for open and sustainable science.
 
 ![OSIUM_Logo](./assets/images/OSIUM_logo.png)
 
-# [What?](./open-science.md) 
-The term 'Open Science' has not yet a universally accepted definition, but usually refers to one core theme: Increasing knowledge availability as a public good, typically with critical key principles of good scientific practice such as credibility, reproducibility, and verifiability included in some combination. Many other terms are being used synonymously with Open Science, such as Open Research, Open Scholarship, Science 2.0, and eScience.
-[FOSTER](https://www.fosteropenscience.eu/) defines Open Science as: "The movement to make scientific research, data and dissemination accessible to all levels of an inquiring society."
+# What is OSIUM?
 
-# [Why?](./reasons.md)
-In its <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949">Recommendation on Open Science</a>, UNESCO calls for the consistent implementation of open research practices because:
-* Open Science enables fairer access to science worldwide and thus also better contributions to solving world problems
-* Open Science improves efficiency, transparency and traceability within science
-* Open Science strengthens inter- and transdisciplinarity and facilitates exchange with industry and international partners.
+[Open Science](./open-science.md) is the movement to make scientific research, data, and dissemination accessible to all levels of an inquiring society ([FOSTER](https://www.fosteropenscience.eu/)). 
+With [OSIUM](./team.md), a grassroots peer2peer initiative at Marburg University, you can be part of this movement: we connect early‑career researchers, share practical workflows, and explore how to bring openness into our research and teaching.
 
-# [How?](./tools-and-resources.md)
-The ever-growing and very engaged Open Science community is constantly developing new open tools, platforms and standards that help to make your research transparent, open and reusable.
-In addition, the growing open science community offers peer-to-peer support and joint activities from which your research can benefit substantially.
+# [Open to everyone - join OSIUM!](./join.md)
 
-**If you are interested in Open Science in general, in the Marburg Open Science Services, collaboration options or our local Open Science Community OSIUM, we are thrilled to give talks in your courses or discuss your ideas with your team. So please don't hesitate to <a href="mailto:osium.contact@gmail.com">contact</a> us!**
-
-# [Open to everyone - join OSIUM!](./team.md)
-
-OSIUM is a is a grassroot initiative on voluntary basis promoting open science at Marburg University.
-OSIUM is happy to collaborate with you on open research practices or specific projects on open research workflows or open science in teaching.
-So if you have questions or ideas or just want to be part of this innovative and collaborative community, come to our next **Open Office Hour**: We meet online every first Monday in the month at 1:00 pm and in person once a quarter for an **Open Science Lab**. Please find all OSIUM activities announced in our [calendar](./calendar-page.md).
+OSIUM is happy to collaborate with you on open research practices or specific projects on open research workflows or open science in teaching. Please feel free to <a href="mailto:osium.contact@gmail.com">drop us a mail</a>!
+If you have questions or ideas or just want to be part of this innovative and collaborative community, please come to our next **Open Office Hour**: We meet online every first Monday in the month at 1:00 pm. Please find all OSIUM activities announced in our [calendar](./calendar-page.md) - or feel free to directly [join](./join.md) us!
 
 # Help Us Shape OSIUM!
 
