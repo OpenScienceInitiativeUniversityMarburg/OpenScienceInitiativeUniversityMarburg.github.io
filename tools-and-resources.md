@@ -19,12 +19,14 @@ description: A collection of tools and resources regarding open science and open
 
 <a href="https://open-science-cloud.ec.europa.eu/">EOSC EU-Node</a>
 
-## Overview Over Some Further Open Science Services
+---
+
+<-- ## Overview Over Some Further Open Science Services
 
 See the "rainbow of open science practices" for an overview:
-![Rainbow](./assets/images/rainbow-of-open-science.png) 
+![Rainbow](./assets/images/rainbow-of-open-science.png) --!>
 
----
+
 
 # OSIUM Open Science Publications and Science Communication
 
@@ -70,11 +72,11 @@ As OSIUM, we use the "Open Science Framework" <a href="https://osf.io/">OSF</a> 
 
 __Tool Overviews__
 
-<a href="https://101innovations.wordpress.com/">Tools Overview</a>
-
-<a href="https://tilburgsciencehub.com/">Tilburg Sciewnce Hub</a>
+<a href="https://101innovations.wordpress.com/">The Open Science Rainbow</a>
 
 __Learning Materials__
+
+<a href="https://openplato.eu/">OpenPlato</a>
 
 <a href="https://www.cos.io/communities/open-scholarship-knowledge-base">Open Scholarship Knowledge Base</a>
 
