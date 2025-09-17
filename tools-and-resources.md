@@ -21,10 +21,10 @@ description: A collection of tools and resources regarding open science and open
 
 ---
 
-<-- ## Overview Over Some Further Open Science Services
+<!-- ## Overview Over Some Further Open Science Services
 
 See the "rainbow of open science practices" for an overview:
-![Rainbow](./assets/images/rainbow-of-open-science.png) --!>
+![Rainbow](./assets/images/rainbow-of-open-science.png) -->
 
 
 
