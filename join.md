@@ -15,6 +15,7 @@ description: How to get involved
 
 By becoming an active member, you join a community committed to making research more open, transparent, and inclusive. 
 You can contribute with your skills, ideas and knowledge – and you get the possibility to gain valuable skills, insights, and collaborator that benefit your own scientific career.
+As a MARA working group, we can furthermore apply for funding from the university for Open Science ideas.
 
 # Who Can Take Part in the OSIUM Community?
 
