@@ -9,7 +9,7 @@ description: Building a community for open and sustainable science.
 # What is OSIUM?
 
 [Open Science](./open-science.md) is the movement to make scientific research, data, and dissemination accessible to all levels of an inquiring society ([FOSTER](https://www.fosteropenscience.eu/)). 
-With [OSIUM](./team.md), a grassroots peer2peer initiative at Marburg University, you can be part of this movement: we connect early‑career researchers, share practical workflows, and explore how to bring openness into our research and teaching.
+With [OSIUM](./team.md), a grassroots peer2peer initiative at Marburg University, you can be part of this movement: Our aim is to connect early‑career researchers via sharing practical workflows in summer schools, hackathons and retreats.
 
 # [Open to everyone - join OSIUM!](./join.md)
 
