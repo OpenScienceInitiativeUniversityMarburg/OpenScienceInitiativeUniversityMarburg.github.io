@@ -11,6 +11,8 @@ description: A collection of tools and resources regarding open science and open
 
 <a href="https://www.uni-marburg.de/de/open-science/">Open Science UMR</a>: the Open Science related services in and around Marburg.
 
+<a href="https://ilias.uni-marburg.de/goto.php/crs/4265627">Open Science self learn module</a>: the Open Science MOOC adapted for Marburg University.
+
 ## National Open Science Services
 
 <a href="https://www.nfdi.de/service/?lang=en">NFDI</a>
