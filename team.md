@@ -114,7 +114,7 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
   <tr>
     <td align="center" style="vertical-align: top; padding: 10px;">
       <h3><a href="https://www.linkedin.com/in/franziska-us%C3%A9e/">Franziska Usée</a></h3>
-      <img src="./assets/images/Franziska_Usée.jpg" width="150" alt="Franziska Usée" style="border-radius: 8px; margin-bottom: 10px;">
+      <img src="./assets/images/Franziska_Usee.jpg" width="150" alt="Franziska Usée" style="border-radius: 8px; margin-bottom: 10px;">
       <p style="text-align: center;">
         I am a doctoral student in Clinical Psychology and Psychotherapy. My PhD focuses on applying computational modeling to approach–avoidance conflict behavior to improve the
         understanding of anxiety disorders. More broadly, I am interested in integrating advanced data science methods into psychological research and data analysis.
