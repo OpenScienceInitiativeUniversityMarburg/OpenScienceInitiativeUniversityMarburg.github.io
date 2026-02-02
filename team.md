@@ -19,7 +19,7 @@ We seek to promote Open Science by offering:
 
 Neuroscientists, biologists, psychologists, physicists, computer scientists, linguists, and media scientists have come together to promote Open Science at Marburg University for the benefit of all sciences. We are always looking for new Open Science enthusiasts to [join the team](./join)!
 
-<a href="https://www.linkedin.com/in/niau/">Nick Augustat</a>, <a href="https://www.researchgate.net/profile/Monica-Berdugo-Moreno">Monica B. Berdugo</a>, <a href="https://www.uni-marburg.de/de/universitaet/lehre/zukunftswerkstatt/das-team/sophia-hercher">Sophia Hercher</a>, <a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a>, <a href="https://de.linkedin.com/in/bj%C3%B6rn-siepe-11a750219">Björn Siepe</a>, <a href="https://orcid.org/0000-0002-0949-2000">Franziska Usée</a>
+<a href="https://www.linkedin.com/in/niau/">Nick Augustat</a>, <a href="https://www.researchgate.net/profile/Monica-Berdugo-Moreno">Monica B. Berdugo</a>, <a href="https://www.uni-marburg.de/de/universitaet/lehre/zukunftswerkstatt/das-team/sophia-hercher">Sophia Hercher</a>, <a href="https://www.uni-marburg.de/de/fb20/bereiche/methoden-gesundheit/allgprmed/abteilung/personen/dr-rer-soc-konrad-hierasimowicz">Konrad Hierasimowicz</a>, <a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a>, <a href="https://de.linkedin.com/in/bj%C3%B6rn-siepe-11a750219">Björn Siepe</a>, <a href="https://www.linkedin.com/in/franziska-us%C3%A9e/">Franziska Usée</a>
 
 <table align="center" style="width: 70%; table-layout: fixed; margin-bottom: 40px;">
   <tr>
@@ -50,6 +50,36 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
 <table align="center" style="width: 70%; table-layout: fixed; margin-bottom: 40px;">
   <tr>
     <td align="center" style="vertical-align: top; padding: 10px;">
+      <h3><a href="https://www.uni-marburg.de/de/universitaet/lehre/zukunftswerkstatt/das-team/sophia-hercher">Sophia Hercher</a></h3>
+      <img src="./assets/images/Sophia_Hercher.png" width="200" alt="Sophia Hercher" style="border-radius: 8px; margin-bottom: 10px;">
+      <p style="text-align: center;">
+        I am a high-school teacher by training. My subjects are English, Ethics, and Philosophy. Currently, however, I work as an instructional designer at Marburg University,
+        coordinating the project „Zukunftswerkstatt für digital gestützte Hochschullehre“ (Future workshop for digitally enhanced teaching and learning). Within my job, I support
+        teachers at the university in their digital teaching endeavors. Apart from that, I am engaged in fostering Open Educational Resources and Education for Sustainable Development.
+        Right now, the topic of AI is very demanding, such that I try to understand as much as possible to support people in dealing with this disruptive technology in their
+        teaching. In this context, I also do some metaphor research as a hobby.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table align="center" style="width: 70%; table-layout: fixed; margin-bottom: 40px;">
+  <tr>
+    <td align="center" style="vertical-align: top; padding: 10px;">
+      <h3><a href="https://www.uni-marburg.de/de/fb20/bereiche/methoden-gesundheit/allgprmed/abteilung/personen/dr-rer-soc-konrad-hierasimowicz">Konrad Hierasimowicz</a></h3>
+      <img src="./assets/images/konrad_hierasimowicz.png" width="200" alt="Konrad Hierasimowicz" style="border-radius: 8px; margin-bottom: 10px;">
+      <p style="text-align: center;">
+        Research Associate at the Institute of General Practice/Family Medicine (Institut für Allgemeinmedizin, Philipps-Universität Marburg).<br>
+        Academic interests: sociology (knowledge and media sociology) and computer science (operating systems, databases).<br>
+        Open science focus: open-source software and operating systems (GNU/Linux), open methodology.<br>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table align="center" style="width: 70%; table-layout: fixed; margin-bottom: 40px;">
+  <tr>
+    <td align="center" style="vertical-align: top; padding: 10px;">
       <h3><a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a></h3>
       <img src="./assets/images/Lydia_Riedl.png" width="150" alt="Lydia Riedl" style="border-radius: 8px; margin-bottom: 10px;">
       <p style="text-align: center;">
@@ -66,6 +96,7 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
     </td>
   </tr>
 </table>
+
 <table align="center" style="width: 70%; table-layout: fixed; margin-bottom: 40px;">
   <tr>
     <td align="center" style="vertical-align: top; padding: 10px;">
