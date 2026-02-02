@@ -81,7 +81,7 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
   <tr>
     <td align="center" style="vertical-align: top; padding: 10px;">
       <h3><a href="https://orcid.org/0000-0003-4131-7891">Lydia Riedl</a></h3>
-      <img src="./assets/images/Lydia_Riedl.png" width="150" alt="Lydia Riedl" style="border-radius: 8px; margin-bottom: 10px;">
+      <img src="./assets/images/Lydia_Riedl.png" width="200" alt="Lydia Riedl" style="border-radius: 8px; margin-bottom: 10px;">
       <p style="text-align: center;">
         Linguist and Neuroscientist<br>
         Promoting Open Science in Marburg (and beyond) as:
@@ -101,7 +101,7 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
   <tr>
     <td align="center" style="vertical-align: top; padding: 10px;">
       <h3><a href="https://de.linkedin.com/in/bj%C3%B6rn-siepe-11a750219">Björn Siepe</a></h3>
-      <img src="./assets/images/Bjoern_Siepe.jpg" width="150" alt="Björn Siepe" style="border-radius: 8px; margin-bottom: 10px;">
+      <img src="./assets/images/Bjoern_Siepe.jpg" width="200" alt="Björn Siepe" style="border-radius: 8px; margin-bottom: 10px;">
       <p style="text-align: center;">
         Doctoral Student in the Psychological Methods Lab, Department of Psychology<br>
         My work focuses on developing and evaluating statistical methods for time series analysis in psychology,  time series analysis in clinical applications, and meta research on robust methodological research.
@@ -114,7 +114,7 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
   <tr>
     <td align="center" style="vertical-align: top; padding: 10px;">
       <h3><a href="https://www.linkedin.com/in/franziska-us%C3%A9e/">Franziska Usée</a></h3>
-      <img src="./assets/images/Franziska_Usee.jpg" width="150" alt="Franziska Usée" style="border-radius: 8px; margin-bottom: 10px;">
+      <img src="./assets/images/Franziska_Usee.jpg" width="200" alt="Franziska Usée" style="border-radius: 8px; margin-bottom: 10px;">
       <p style="text-align: center;">
         I am a doctoral student in Clinical Psychology and Psychotherapy. My PhD focuses on applying computational modeling to approach–avoidance conflict behavior to improve the
         understanding of anxiety disorders. More broadly, I am interested in integrating advanced data science methods into psychological research and data analysis.
