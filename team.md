@@ -150,7 +150,7 @@ OSIUM collaborates within **Marburg University** with the MArburg Research Acade
 
 ### Collaborations Beyond Marburg 
 **Beyond Marburg University**, we collaborate with the Hessian Data Infrastructure <a href="https://www.uni-marburg.de/de/hefdi">HeFDI</a> and other Open Science actors in Germany.
-OSIUM is member of the Network of Open Science Initiatives <a href="https://osf.io/tbkzh/">NOSI</a> and part of the global <a href="https://mattermost.brainhack.org/">Brainhack Community</a>. We furthermore collaborate with <a href="https://forrt.org/">FORRT</a> and <a href="https://the-turing-way.netlify.app/index.html">The Turing Way</a>.
+OSIUM is member of the Network of Open Science Initiatives <a href="https://osf.io/tbkzh/">NOSI</a> and elected representative of NOSI in the steering board of the German Reproducibility Network <a href="https://reproducibilitynetwork.de/">GRN</a>. We furthermore collaborate with <a href="https://forrt.org/">FORRT</a>, the global <a href="https://mattermost.brainhack.org/">Brainhack Community</a> and <a href="https://the-turing-way.netlify.app/index.html">The Turing Way</a>.
 
 
 ---
