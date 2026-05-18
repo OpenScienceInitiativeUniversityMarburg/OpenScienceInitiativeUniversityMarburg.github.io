@@ -2,3 +2,36 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.benefits-box {
+  background-color: #f7f9fb;
+  border: 1px solid #dce6f0;
+  border-left: 4px solid #159957;
+  border-radius: 4px;
+  padding: 1.2rem 1.5rem;
+  margin: 1.5rem 0;
+
+  strong {
+    display: block;
+    margin-bottom: 0.6rem;
+  }
+
+  ul {
+    margin: 0 0 1rem 0;
+  }
+}
+
+.benefits-cta {
+  display: inline-block;
+  padding: 0.45rem 1.1rem;
+  background-color: #159957;
+  color: #fff !important;
+  border-radius: 4px;
+  font-weight: bold;
+  text-decoration: none !important;
+
+  &:hover {
+    background-color: #117a45;
+    text-decoration: none !important;
+  }
+}
