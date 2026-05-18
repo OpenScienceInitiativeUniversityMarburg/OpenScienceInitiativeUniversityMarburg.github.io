@@ -84,14 +84,7 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
       <img src="./assets/images/Lydia_Riedl.png" width="200" alt="Lydia Riedl" style="border-radius: 8px; margin-bottom: 10px;">
       <p style="text-align: center;">
         Linguist and Neuroscientist<br>
-        Promoting Open Science in Marburg (and beyond) as:
-      </p>
-      <ul style="list-style-position: inside; text-align: left; margin: 0 auto; width: 100%;">
-        <li>Open Science Officer of Philipps-Universität Marburg</li>
-        <li>Repository Manager and Open Repositories Group Lead</li>
-        <li>Member of the Marburg eResearch Center</li>
-        <li>Steering board member of the German Reproducibility Network</li>
-        <li>Proud board member of OSIUM</li>
+        Promoting Open Science in Marburg (and beyond) as: Open Science group lead at Marburg University Library, Member of the Marburg eResearch Center, steering board member of the German Reproducibility Network and proud board member of OSIUM.
       </ul>
     </td>
   </tr>
@@ -149,8 +142,8 @@ Since 2018, OSIUM is an independent <a href="https://www.uni-marburg.de/en/mara/
 OSIUM collaborates within **Marburg University** with the MArburg Research Academy <a href="https://www.uni-marburg.de/en/mara/">MARA</a>, the <a href="https://www.uni-marburg.de/de/forschung/kontakt/eresearch">eResearch Center</a> and the <a href="https://www.uni-marburg.de/de/universitaet/lehre/zukunftswerkstatt">Zukunftswerkstatt</a>.
 
 ### Collaborations Beyond Marburg 
-**Beyond Marburg University**, we collaborate with the Hessian Data Infrastructure <a href="https://www.uni-marburg.de/de/hefdi">HeFDI</a> and other Open Science actors in Germany.
-OSIUM is member of the Network of Open Science Initiatives <a href="https://osf.io/tbkzh/">NOSI</a> and part of the global <a href="https://mattermost.brainhack.org/">Brainhack Community</a>. We furthermore collaborate with <a href="https://forrt.org/">FORRT</a> and <a href="https://the-turing-way.netlify.app/index.html">The Turing Way</a>.
+**Beyond Marburg University**, we collaborate for workshops with the Hessian Data Infrastructure <a href="https://www.uni-marburg.de/de/hefdi">HeFDI</a>.
+OSIUM is member of the Network of Open Science Initiatives <a href="https://osf.io/tbkzh/">NOSI</a> and elected representative of NOSI in the steering board of the German Reproducibility Network <a href="https://reproducibilitynetwork.de/">GRN</a>. We furthermore collaborate with <a href="https://forrt.org/">FORRT</a>, the global <a href="https://mattermost.brainhack.org/">Brainhack Community</a> and <a href="https://the-turing-way.netlify.app/index.html">The Turing Way</a>.
 
 
 ---

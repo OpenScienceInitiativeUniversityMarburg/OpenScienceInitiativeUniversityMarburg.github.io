@@ -7,8 +7,21 @@ description: Bi-weekly open office hours as well as other various events.
 
 # Upcoming Events - Save the Date!!
 
+## Metascience Summer School
 
-## One-Day Train the Trainer Retreat 2025 on 3.11.2025 in Marburg
+
+![Metascience-Summer-School-Info](./assets/images/Metascience-Summer-School-2026.png)
+
+<br>
+
+
+**Details** on the Metascience Summer School can be found <a class="twitter-timeline" href="https://www.bihealth.org/de/aktuell/meta-science-summer-school-designing-and-conducting-studies-to-improve-research-1" data-tweet-limit="1" data-height="300">here</a>! The Metascience Summer School is organized by the Quest Center and supported by OSIUM via the German Reproducibility Network.
+<br>
+
+---
+
+
+## One-Day Train the Trainer Retreat 2026 in November in Marburg
 
 
 ![TTT-Logo](./assets/images/TTT_Logo.png)
@@ -16,7 +29,7 @@ description: Bi-weekly open office hours as well as other various events.
 <br>
 
 
-**Details** on the One-Day Train the Trainer Retreat 2025 can be found <a class="twitter-timeline" href="https://openscienceinitiativeuniversitymarburg.github.io/train-the-trainer-retreat-2025.html" data-tweet-limit="1" data-height="300">here</a>!
+**Details** on the former One-Day Train the Trainer Retreat 2025 can be found <a class="twitter-timeline" href="https://openscienceinitiativeuniversitymarburg.github.io/train-the-trainer-retreat-2025.html" data-tweet-limit="1" data-height="300">here</a>! A similar retreat is planned for end of this year. More infos are going to come!
 <br>
 
 ---
