@@ -116,6 +116,8 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
   </tr>
 </table>
 
+
+
 # Supporter List
 _This list is not yet complete and will be continuously updated._
 
@@ -126,8 +128,10 @@ _This list is not yet complete and will be continuously updated._
 * Dr. Sarah-Mai Dang
 * Prof. Dr. Peter Bell
 
+
 # Former Board Members 
 <a href="https://de.linkedin.com/in/julia-katharina-pfarr-2a6437236">Julia Pfarr</a>, <a href="https://github.com/vogelbac">Christoph Vogelbacher</a>, <a href="https://github.com/thecyclingcyclopse">Thomas S. Hartmann</a>, <a href="https://de.linkedin.com/in/karlinhossner">Karlin Hossner</a>, <a href="https://de.linkedin.com/in/ina-thome-a31766182">Ina Thome</a>
+
 
 # Founders
 <a href="https://github.com/JoseAlanis">José Alanis</a>, <a href="https://github.com/MalteGueth">Malte Gueth</a>, <a href="https://github.com/PeerHerholz">Peer Herholz</a>, <a href="https://www.ukgm.de/ugm_2/deu/umr_psy/umr_psy_team.php?id=1398">Jens Sommer</a>, <a href="https://github.com/vogelbac">Christoph Vogelbacher</a>
