@@ -85,7 +85,7 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
       <p style="text-align: center;">
         Linguist and Neuroscientist<br>
         Promoting Open Science in Marburg (and beyond) as: Open Science group lead at Marburg University Library, Member of the Marburg eResearch Center, steering board member of the German Reproducibility Network and proud board member of OSIUM.
-      </ul>
+      </p>
     </td>
   </tr>
 </table>
@@ -139,7 +139,7 @@ _This list is not yet complete and will be continuously updated._
 Since 2018, OSIUM is an independent <a href="https://www.uni-marburg.de/en/mara/networking/academic-groups/working-group-35/arbeitsgruppe-35-open-science-initiative-university-marburg-2018">MARA working group</a>. open to all members of the university that are interested in the topic of open and sustainable research.
 
 ### Collaborations in Marburg
-OSIUM collaborates within **Marburg University** with the MArburg Research Academy <a href="https://www.uni-marburg.de/en/mara/">MARA</a>, the <a href="https://www.uni-marburg.de/de/forschung/kontakt/eresearch">eResearch Center</a> and the <a href="https://www.uni-marburg.de/de/universitaet/lehre/zukunftswerkstatt">Zukunftswerkstatt</a>.
+OSIUM collaborates within **Marburg University** with the MArburg Research Academy <a href="https://www.uni-marburg.de/en/mara/">MARA</a> and the <a href="https://www.uni-marburg.de/de/forschung/kontakt/eresearch">eResearch Center</a>.
 
 ### Collaborations Beyond Marburg 
 **Beyond Marburg University**, we collaborate for workshops with the Hessian Data Infrastructure <a href="https://www.uni-marburg.de/de/hefdi">HeFDI</a>.
