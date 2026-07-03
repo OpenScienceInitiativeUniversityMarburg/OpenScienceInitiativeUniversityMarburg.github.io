@@ -21,15 +21,18 @@ description: Bi-weekly open office hours as well as other various events.
 ---
 
 
-## One-Day Train the Trainer Retreat 2026 on November 2nd in Marburg
+## One-Day Train the Trainer Retreat 2026
 
 
 ![TTT-Logo](./assets/images/TTT_Logo.png)
 
 <br>
 
+**Date**: 2.11.2026
+**Location**: Marburg, Creative Space (Bahnhofstraße)
+**Language**: English or German (participants' decision)
 
-**Details** including the *REGISTRATION option* can be found <a class="twitter-timeline" href="https://openscienceinitiativeuniversitymarburg.github.io/train-the-trainer-retreat-2026.html" data-tweet-limit="1" data-height="300">here</a>!
+**Details** including the REGISTRATION option can be found <a class="twitter-timeline" href="https://openscienceinitiativeuniversitymarburg.github.io/train-the-trainer-retreat-2026.html" data-tweet-limit="1" data-height="300">here</a>!
 <br>
 
 ---
