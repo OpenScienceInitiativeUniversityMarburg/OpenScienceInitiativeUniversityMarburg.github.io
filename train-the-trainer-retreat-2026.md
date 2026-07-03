@@ -25,7 +25,7 @@ We are therefore organizing a retreat for multipliers who would like to integrat
 <br>
 
 
-→ <a href="https://redcap.kks.uni-marburg.de/surveys/?s=9TWKDAF8KWYPM7CN">REGISTER</a> (Registration closes on 3.10.)
+→ <a href="https://redcap.kks.uni-marburg.de/surveys/?s=CD37R9847J39M7R8">REGISTER</a> (Registration closes on 20.09.)
 
 **Event Format & Methods**
 
@@ -57,7 +57,7 @@ In the period between the kick-off and the TTT workshop, the participants prepar
 
 **costs**: The participation is for free!
 
-→ <a href="https://redcap.kks.uni-marburg.de/surveys/?s=9TWKDAF8KWYPM7CN">REGISTER</a> (Registration closes on 3.10.)
+→ <a href="https://redcap.kks.uni-marburg.de/surveys/?s=CD37R9847J39M7R8">REGISTER</a> (Registration closes on 20.09.)
 
 
 The TTT Retreat is organized by 
