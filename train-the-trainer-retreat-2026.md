@@ -5,7 +5,20 @@ description: Unconference, Peer2Peer Training, Inspiration.
 ---
 
 
-# Train the Trainer Retreat - Digital Skills & Open Science in Higher Education on 02.11.2026 in Marburg
+# Join the Open Science Train-the-Trainer Retreat - on 02.11.2026 in Marburg
+
+**Goals**
+
+The Open Science Train-the-Trainer Retreat (TTT-Retreat) serves three purposes:
+1. Give you the time and space to learn about good, evidence-based teaching,
+2. Provide you with a community of like-minded peers,
+3. Strengthening the integration of Open Science methods in your teaching.
+
+→ <a href="https://redcap.kks.uni-marburg.de/surveys/?s=CD37R9847J39M7R8">REGISTER</a> (Registration closes on 20.09.)
+
+---
+
+**Focus Topics**
 
 Digital skills in research range from basic skills in the use of digital tools and platforms to advanced knowledge in specific areas. These skills are needed more than ever, especially in future-oriented areas such as
 
@@ -18,23 +31,11 @@ Digital skills in research range from basic skills in the use of digital tools a
 Imparting this knowledge and skills in university teaching helps to ensure high-quality research and make it sustainable.
 We are therefore organizing a retreat for multipliers who would like to integrate these extremely important topics into their teaching and supervision.
 
-<br>
-
-![TTT-Logo](./assets/images/TTT_Logo.png)
-
-<br>
-
-
 → <a href="https://redcap.kks.uni-marburg.de/surveys/?s=CD37R9847J39M7R8">REGISTER</a> (Registration closes on 20.09.)
 
+---
+
 **Event Format & Methods**
-
-
-The One-Day Train the Trainer (TTT) retreat follows the successfully proven Train-the-Trainer format of the <a href="https://digital-research.academy/">Digital Research Academy</a>.
-The goals are:
-1. Give you the time and space to learn about good, evidence-based teaching,
-2. Provide you with a community of like-minded peers,
-3. Strengthening the integration of Open Science methods in your teaching.
 
 The TTT retreat is is conceptualized as a one-day unconference: the participants share their own teaching ideas, receive targeted feedback, and learn from the proven didactic concepts of others.
 
@@ -59,6 +60,15 @@ In the period between the kick-off and the TTT workshop, the participants prepar
 
 → <a href="https://redcap.kks.uni-marburg.de/surveys/?s=CD37R9847J39M7R8">REGISTER</a> (Registration closes on 20.09.)
 
+---
+
+The One-Day Train the Trainer (TTT) retreat follows the successfully proven Train-the-Trainer format of the <a href="https://digital-research.academy/">Digital Research Academy</a>.
+
+<br>
+
+![TTT-Logo](./assets/images/TTT_Logo.png)
+
+<br>
 
 The TTT Retreat is organized by 
 
@@ -70,7 +80,9 @@ and supported by
 
 and
 
-<img src="./assets/images/eResearch-logo.png" alt="MARA-Logo" width="300">
+<img src="./assets/images/eResearch-logo.png" alt="MARA-Logo" width="300">.
+
+
 
 
 <br>
