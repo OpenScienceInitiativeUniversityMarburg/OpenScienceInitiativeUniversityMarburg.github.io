@@ -14,6 +14,9 @@ The Open Science Train-the-Trainer Retreat (TTT-Retreat) serves three purposes:
 2. Provide you with a community of like-minded peers,
 3. Strengthening the integration of Open Science methods in your teaching.
 
+**Do you want to offer excellent teaching for open, sustainable, high-quality research?
+Then the TTT Retreat could be the ideal place for you!**
+
 → <a href="https://redcap.kks.uni-marburg.de/surveys/?s=CD37R9847J39M7R8">REGISTER</a> (Registration closes on 20.09.)
 
 ---
@@ -39,11 +42,9 @@ We are therefore organizing a retreat for multipliers who would like to integrat
 
 The TTT retreat is is conceptualized as a one-day unconference: the participants share their own teaching ideas, receive targeted feedback, and learn from the proven didactic concepts of others.
 
-During the TTT retreat, we will work to expand and optimize our didactic skills for precisely these areas. 
- 
-Do you want to offer excellent teaching for transparent, sustainable, high-quality research?
-Then the TTT Retreat could be the ideal place for you!
+During the morning session, participants will exchange ideas and insights on Open Science, data literacy, and coding competence in higher education. In the afternoon, they will have the freedom to work on self-selected projects to apply these concepts to their own research and teaching.
 
+To plan the morning unconference sessions for the retreat, we will hold a 1-hour online kickoff meeting two weeks prior to the on-site event.
 
 
 **Schedule**:
@@ -55,6 +56,7 @@ Then the TTT Retreat could be the ideal place for you!
 
 In the period between the kick-off and the TTT workshop, the participants prepare didactic sessions, which they present at the TTT workshop.
 
+---
 
 **costs**: The participation is for free!
 
