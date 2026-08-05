@@ -64,6 +64,10 @@ In the period between the kick-off and the TTT workshop, the participants prepar
 
 ---
 
+**your needs**: If you have any specific requirements or preferences, such as childcare arrangements, accessibility needs, or anything else that would help you participate fully, please feel free to mention these in the comments section of the registration form or contact us via mail <a href="mailto:osium.contact@gmail.com">osium.contact@gmail.com</a>.
+
+---
+
 The One-Day Train the Trainer (TTT) retreat follows the successfully proven Train-the-Trainer format of the <a href="https://digital-research.academy/">Digital Research Academy</a>.
 
 <br>
