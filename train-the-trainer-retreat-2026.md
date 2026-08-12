@@ -10,7 +10,7 @@ description: Unconference, Peer2Peer Training, Inspiration.
 **Goals**
 
 The Open Science Train-the-Trainer Retreat (TTT-Retreat) serves three purposes:
-1. Give you the time and space to learn about good, evidence-based teaching,
+1. Give you the time and space to learn about good teaching practices in higher education,
 2. Provide you with a community of like-minded peers,
 3. Strengthening the integration of Open Science methods in your teaching.
 
