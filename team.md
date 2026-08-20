@@ -119,7 +119,7 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
 # Institutional Supporter List
 _This list is not yet complete and will be continuously updated._
 
-<a href="https://www.uni-marburg.de/de/ub">Universitätsbibliothek Marburg</a></h3>
+<a href="https://www.uni-marburg.de/de/ub">Universitätsbibliothek Marburg</a>
 
 # Individual Supporter List
 _This list is not yet complete and will be continuously updated._
