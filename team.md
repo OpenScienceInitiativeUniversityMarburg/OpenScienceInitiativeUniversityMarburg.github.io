@@ -116,9 +116,12 @@ Neuroscientists, biologists, psychologists, physicists, computer scientists, lin
   </tr>
 </table>
 
+# Institutional Supporter List
+_This list is not yet complete and will be continuously updated._
 
+<a href="https://www.uni-marburg.de/de/ub">Universitätsbibliothek Marburg</a></h3>
 
-# Supporter List
+# Individual Supporter List
 _This list is not yet complete and will be continuously updated._
 
 * Prof. Dr. Dominik Endres
