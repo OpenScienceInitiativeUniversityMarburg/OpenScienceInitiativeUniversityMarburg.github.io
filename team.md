@@ -146,7 +146,7 @@ _This list is not yet complete and will be continuously updated._
 Since 2018, OSIUM is an independent <a href="https://www.uni-marburg.de/en/mara/networking/academic-groups/working-group-35/arbeitsgruppe-35-open-science-initiative-university-marburg-2018">MARA working group</a>. open to all members of the university that are interested in the topic of open and sustainable research.
 
 ### Collaborations in Marburg
-OSIUM collaborates within **Marburg University** with the MArburg Research Academy <a href="https://www.uni-marburg.de/en/mara/">MARA</a> and the <a href="https://www.uni-marburg.de/de/forschung/kontakt/eresearch">eResearch Center</a>.
+OSIUM collaborates within **Marburg University** with the MArburg Research Academy <a href="https://www.uni-marburg.de/en/mara/">MARA</a>, the <a href="https://www.uni-marburg.de/de/ub">University Library</a></h3> and the <a href="https://www.uni-marburg.de/de/forschung/kontakt/eresearch">eResearch Center</a>.
 
 ### Collaborations Beyond Marburg 
 **Beyond Marburg University**, we collaborate for workshops with the Hessian Data Infrastructure <a href="https://www.uni-marburg.de/de/hefdi">HeFDI</a>.
