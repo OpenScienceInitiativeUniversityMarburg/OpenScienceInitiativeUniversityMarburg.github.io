@@ -7,20 +7,6 @@ description: Bi-weekly open office hours as well as other various events.
 
 # Upcoming Events - Save the Date!!
 
-## Metascience Summer School
-
-
-![Metascience-Summer-School-Info](./assets/images/Metascience-Summer-School-2026.png)
-
-<br>
-
-
-**Details** on the Metascience Summer School can be found <a class="twitter-timeline" href="https://www.bihealth.org/de/aktuell/meta-science-summer-school-designing-and-conducting-studies-to-improve-research-1" data-tweet-limit="1" data-height="300">here</a>! The Metascience Summer School is organized by the Quest Center and supported by OSIUM via the German Reproducibility Network.
-<br>
-
----
-
-
 ## One-Day Train the Trainer Retreat 2026
 
 
