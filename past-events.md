@@ -2,6 +2,7 @@
 layout: default
 ---
 # Past Events
+- Supporter of <a class="twitter-timeline" href="https://www.bihealth.org/de/aktuell/meta-science-summer-school-designing-and-conducting-studies-to-improve-research-1" data-tweet-limit="1" data-height="300">Metascience Summer School 2026</a> via the German Reproducibility Network
 - Contribution to <a class="twitter-timeline" href="https://www.uni-marburg.de/de/forschung/kontakt/eresearch/open-science/cocreate" data-tweet-limit="1" data-height="300">CoCreate University Marburg 2025</a>
 - Supporter of <a class="twitter-timeline" href="https://www.bihealth.org/en/notices/meta-science-summer-school-designing-and-conducting-studies-to-improve-research" data-tweet-limit="1" data-height="300">Metascience Summer School 2025</a> via the German Reproducibility Network
 - <a class="twitter-timeline" href="https://openscienceinitiativeuniversitymarburg.github.io/train-the-trainer-retreat-2025.html" data-tweet-limit="1" data-height="300">Train-the-Trainer Retreat 2025</a>
